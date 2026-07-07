@@ -12,6 +12,7 @@ from iata_code_fetcher.fetcher import (
     fetch_iata_rows,
     find_records,
     generate_codes,
+    maybe_record_all_refresh_complete,
     query_local,
     to_output_record,
 )
@@ -185,3 +186,41 @@ def test_query_local_uses_cache_only(mock_fetch, mock_find):
     }
     mock_find.assert_called_once_with(CodeType.AIRPORT, "PVG")
     mock_fetch.assert_not_called()
+
+
+@patch("iata_code_fetcher.fetcher.append_jsonl")
+@patch(
+    "iata_code_fetcher.fetcher.read_jsonl",
+    return_value=[
+        {"event": "refresh_existing", "type": "carrier", "completed_cycle": True},
+        {"event": "refresh_existing", "type": "airport", "completed_cycle": True},
+    ],
+)
+def test_maybe_record_all_refresh_complete_marks_finished_cycle(mock_read, mock_append):
+    """
+    Test full refresh completion is marked after both datasets complete.
+    """
+    maybe_record_all_refresh_complete()
+
+    mock_read.assert_called_once()
+    assert mock_append.call_args.args[0] == "fetch_state.jsonl"
+    assert mock_append.call_args.args[1]["event"] == "refresh_all_complete"
+
+
+@patch("iata_code_fetcher.fetcher.append_jsonl")
+@patch(
+    "iata_code_fetcher.fetcher.read_jsonl",
+    return_value=[
+        {"event": "refresh_existing", "type": "carrier", "completed_cycle": True},
+        {"event": "refresh_all_complete"},
+        {"event": "refresh_existing", "type": "airport", "completed_cycle": True},
+    ],
+)
+def test_maybe_record_all_refresh_complete_waits_for_new_cycle(mock_read, mock_append):
+    """
+    Test an old completion marker resets the cycle completion check.
+    """
+    maybe_record_all_refresh_complete()
+
+    mock_read.assert_called_once()
+    mock_append.assert_not_called()

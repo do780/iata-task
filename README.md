@@ -39,10 +39,22 @@ Fetch progress is tracked separately in `fetch_state.jsonl`.
 By default, existing IATA codes in those output files are skipped, so rerunning the fetcher appends only codes that are not already present.
 Controlled-duplicate markers such as `AB*` are preserved in JSONL output, while lookups normalize the marker so `/carriers/AB` can still find matching records.
 
-The output files can be changed with environment variables. The monthly GitHub Actions workflow writes to the full data files:
+The output files can be changed with environment variables. The GitHub Actions refresh workflow writes to the full data files:
 
 ```bash
 IATA_CARRIER_FILE=carrier_data_full.jsonl IATA_AIRPORT_FILE=airport_data_full.jsonl uv run iata-fetch
+```
+
+For scheduled refreshes, the workflow uses segmented refresh mode. It refreshes existing codes from the full files for about five hours per run, commits the updated files and `fetch_state.jsonl`, and continues from the saved index on the next scheduled run:
+
+```bash
+IATA_REFRESH_EXISTING=1 IATA_REFRESH_MAX_SECONDS=17400 uv run iata-fetch
+```
+
+When both carrier and airport datasets have completed a full refresh cycle, `fetch_state.jsonl` receives a marker like this:
+
+```json
+{"event":"refresh_all_complete","carrier_file":"carrier_data_full.jsonl","airport_file":"airport_data_full.jsonl","completed_at":"2026-07-07T00:00:00+00:00"}
 ```
 
 The script includes rate limiting to prevent excessive requests to the IATA server, with a 1-second sleep interval between requests.

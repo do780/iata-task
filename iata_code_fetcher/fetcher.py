@@ -12,12 +12,34 @@ from enum import Enum
 from itertools import product
 from string import ascii_uppercase, digits
 from threading import RLock
-from time import sleep
+from time import monotonic, sleep
 from typing import Dict, Generator, Iterable, List, Optional
 
 import requests
 from bs4 import BeautifulSoup
 from requests.exceptions import RequestException
+
+
+def env_int(name: str, default: int) -> int:
+    """
+    Read a positive integer setting from the environment.
+    """
+    try:
+        value = int(os.environ.get(name, str(default)))
+    except ValueError:
+        return default
+    return value if value >= 0 else default
+
+
+def env_bool(name: str, default: bool = False) -> bool:
+    """
+    Read a boolean setting from the environment.
+    """
+    value = os.environ.get(name)
+    if value is None:
+        return default
+    return value.strip().lower() in {"1", "true", "yes", "on"}
+
 
 BASE_URL: str = (
     "https://www.iata.org/PublicationDetails/Search/?currentBlock={block}&currentPage=12572&{type}.search={code}"
@@ -30,7 +52,11 @@ STATE_FILE: str = "fetch_state.jsonl"
 REPORT_FREQUENCY: int = 100
 MAX_RETRIES: int = 3
 RETRY_DELAY: int = 15
-REQUEST_DELAY: int = 1
+REQUEST_DELAY: int = env_int("IATA_REQUEST_DELAY_SECONDS", 1)
+REFRESH_EXISTING: bool = env_bool("IATA_REFRESH_EXISTING")
+REFRESH_BATCH_SIZE: int = env_int("IATA_REFRESH_BATCH_SIZE", 50)
+REFRESH_BATCH_PAUSE: int = env_int("IATA_REFRESH_BATCH_PAUSE_SECONDS", 10)
+REFRESH_MAX_SECONDS: int = env_int("IATA_REFRESH_MAX_SECONDS", 17_400)
 TIMEOUT: int = 20
 DATA_LOCK = RLock()
 REQUEST_HEADERS = {
@@ -183,6 +209,18 @@ def append_jsonl(file_path: str, item: Dict[str, object]) -> None:
             file.write(json.dumps(item, ensure_ascii=False) + "\n")
 
 
+def write_jsonl(file_path: str, rows: Iterable[Dict[str, str]]) -> None:
+    """
+    Replace a JSONL file with the given rows.
+    """
+    temp_path = f"{file_path}.tmp"
+    with DATA_LOCK:
+        with open(temp_path, "w", encoding="UTF-8") as file:
+            for row in rows:
+                file.write(json.dumps(row, ensure_ascii=False) + "\n")
+        os.replace(temp_path, file_path)
+
+
 def find_records(code_type: CodeType, code: str) -> List[Dict[str, str]]:
     """
     Find records in the JSONL file by code.
@@ -216,6 +254,68 @@ def record_fetch_state(
     if error:
         state["error"] = error
     append_jsonl(STATE_FILE, state)
+
+
+def record_refresh_state(code_type: CodeType, summary: Dict[str, object]) -> None:
+    """
+    Record segmented refresh progress for GitHub Actions runs.
+    """
+    append_jsonl(
+        STATE_FILE,
+        {
+            "event": "refresh_existing",
+            "type": code_type.value,
+            "fetched_at": datetime.now(timezone.utc).isoformat(),
+            **summary,
+        },
+    )
+
+
+def load_refresh_index(code_type: CodeType, total_codes: int) -> int:
+    """
+    Load the next refresh start index from the state file.
+    """
+    if total_codes <= 0:
+        return 0
+
+    next_index = 0
+    for row in read_jsonl(STATE_FILE):
+        if row.get("event") == "refresh_existing" and row.get("type") == code_type.value:
+            try:
+                next_index = int(row.get("next_index", 0))
+            except (TypeError, ValueError):
+                next_index = 0
+    return next_index % total_codes
+
+
+def record_all_refresh_complete() -> None:
+    """
+    Record that both datasets have completed one segmented refresh cycle.
+    """
+    append_jsonl(
+        STATE_FILE,
+        {
+            "event": "refresh_all_complete",
+            "carrier_file": CARRIER_FILE,
+            "airport_file": AIRPORT_FILE,
+            "completed_at": datetime.now(timezone.utc).isoformat(),
+        },
+    )
+
+
+def maybe_record_all_refresh_complete() -> None:
+    """
+    Mark full refresh completion when both datasets completed since the last marker.
+    """
+    completed_types = set()
+    for row in read_jsonl(STATE_FILE):
+        if row.get("event") == "refresh_all_complete":
+            completed_types.clear()
+        elif row.get("event") == "refresh_existing" and row.get("completed_cycle") is True:
+            completed_types.add(row.get("type"))
+
+    if {CodeType.CARRIER.value, CodeType.AIRPORT.value}.issubset(completed_types):
+        record_all_refresh_complete()
 
 
 def fetch_iata_rows(code: str, code_type: CodeType) -> List[Dict[str, str]]:
@@ -294,6 +394,115 @@ def load_existing_codes(code_type: CodeType) -> set[str]:
     }
 
 
+def rows_by_code(rows: Iterable[Dict[str, str]], code_type: CodeType) -> Dict[str, List[Dict[str, str]]]:
+    """
+    Group rows by normalized IATA code while preserving row order.
+    """
+    code_field = get_output_code_field(code_type)
+    grouped: Dict[str, List[Dict[str, str]]] = {}
+    for row in rows:
+        code = normalize_iata_code(str(row.get(code_field, "")))
+        if code:
+            grouped.setdefault(code, []).append(row)
+    return grouped
+
+
+def flatten_grouped_rows(grouped: Dict[str, List[Dict[str, str]]]) -> List[Dict[str, str]]:
+    """
+    Flatten grouped rows in code order with exact duplicate records removed.
+    """
+    flattened = []
+    seen = set()
+    for code in sorted(grouped):
+        for row in grouped[code]:
+            key = record_key(row)
+            if key not in seen:
+                flattened.append(row)
+                seen.add(key)
+    return flattened
+
+
+def refresh_code_rows(code_type: CodeType, code: str) -> List[Dict[str, str]]:
+    """
+    Fetch fresh rows for one existing code.
+    """
+    updated_rows = []
+    for raw_row in fetch_iata_rows(code, code_type):
+        output_record = to_output_record(raw_row, code_type)
+        record_code = normalize_iata_code(output_record.get(get_output_code_field(code_type), ""))
+        if record_code == code:
+            updated_rows.append(output_record)
+    return updated_rows
+
+
+def refresh_existing_dataset(code_type: CodeType, max_seconds: int = REFRESH_MAX_SECONDS) -> None:
+    """
+    Refresh a time-bounded segment of existing codes and preserve old rows on failures.
+    """
+    output_file = get_output_file(code_type)
+    grouped = rows_by_code(read_jsonl(output_file), code_type)
+    codes = sorted(grouped)
+    total_codes = len(codes)
+    if not codes:
+        logging.info("No existing %s codes found in %s to refresh.", code_type.value, output_file)
+        return
+
+    start_index = load_refresh_index(code_type, total_codes)
+    current_index = start_index
+    summary = {"processed": 0, "refreshed": 0, "failed": 0, "completed_cycle": False}
+    started_at = monotonic()
+
+    logging.info(
+        "Refreshing existing %s codes from index %d/%d into %s.",
+        code_type.value,
+        start_index,
+        total_codes,
+        output_file,
+    )
+
+    while monotonic() - started_at < max_seconds:
+        code = codes[current_index]
+        try:
+            updated_rows = refresh_code_rows(code_type, code)
+            if updated_rows:
+                grouped[code] = updated_rows
+                summary["refreshed"] += 1
+                record_fetch_state(code_type, code, "refreshed", rows=len(updated_rows))
+            else:
+                summary["failed"] += 1
+                record_fetch_state(code_type, code, "no_record")
+        except (RequestException, ValueError) as exc:
+            summary["failed"] += 1
+            record_fetch_state(code_type, code, "error", error=str(exc))
+            logging.warning("Refresh failed for %s %s: %s", code_type.value, code, exc)
+
+        summary["processed"] += 1
+        current_index = (current_index + 1) % total_codes
+        if current_index == start_index:
+            summary["completed_cycle"] = True
+            break
+
+        if summary["processed"] % REPORT_FREQUENCY == 0:
+            logging.info("Refreshed %d %s codes in this run.", summary["processed"], code_type.value)
+        if REFRESH_BATCH_SIZE and summary["processed"] % REFRESH_BATCH_SIZE == 0:
+            logging.info("Pausing %d seconds after %d refreshes.", REFRESH_BATCH_PAUSE, summary["processed"])
+            sleep(REFRESH_BATCH_PAUSE)
+        sleep(REQUEST_DELAY)
+
+    write_jsonl(output_file, flatten_grouped_rows(grouped))
+    summary.update({"next_index": current_index, "total_codes": total_codes})
+    record_refresh_state(code_type, summary)
+    logging.info(
+        "Segment refresh for %ss saved to %s. Processed=%d refreshed=%d failed=%d next_index=%d.",
+        code_type.value,
+        output_file,
+        summary["processed"],
+        summary["refreshed"],
+        summary["failed"],
+        current_index,
+    )
+
+
 def query_local(code_type: CodeType, code: str) -> Dict[str, object]:
     """
     Query local JSONL data only, without triggering network updates.
@@ -345,6 +554,17 @@ def main() -> None:
     """
     Batch update both carrier and airport datasets.
     """
+    if REFRESH_EXISTING:
+        started_at = monotonic()
+        for code_type in (CodeType.CARRIER, CodeType.AIRPORT):
+            remaining_seconds = REFRESH_MAX_SECONDS - int(monotonic() - started_at)
+            if remaining_seconds <= 0:
+                logging.info("Refresh time budget exhausted before %s refresh.", code_type.value)
+                break
+            refresh_existing_dataset(code_type, remaining_seconds)
+        maybe_record_all_refresh_complete()
+        return
+
     batch_fetch_dataset(CodeType.CARRIER)
     batch_fetch_dataset(CodeType.AIRPORT)
 

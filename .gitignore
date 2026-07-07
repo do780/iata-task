@@ -22,8 +22,7 @@ build/
 dist/
 *.egg-info/
 
-# Local runtime state and logs
-fetch_state.jsonl
+# Local logs
 *.log
 
 # Local editor and OS files
