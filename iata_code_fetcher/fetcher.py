@@ -24,8 +24,8 @@ BASE_URL: str = (
 )
 CARRIER_BLOCK: str = "314383"
 AIRPORT_BLOCK: str = "314384"
-CARRIER_FILE: str = "carrier_data.jsonl"
-AIRPORT_FILE: str = "airport_data.jsonl"
+CARRIER_FILE: str = os.environ.get("IATA_CARRIER_FILE", "carrier_data.jsonl")
+AIRPORT_FILE: str = os.environ.get("IATA_AIRPORT_FILE", "airport_data.jsonl")
 STATE_FILE: str = "fetch_state.jsonl"
 REPORT_FREQUENCY: int = 100
 MAX_RETRIES: int = 3

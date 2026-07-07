@@ -39,6 +39,12 @@ Fetch progress is tracked separately in `fetch_state.jsonl`.
 By default, existing IATA codes in those output files are skipped, so rerunning the fetcher appends only codes that are not already present.
 Controlled-duplicate markers such as `AB*` are preserved in JSONL output, while lookups normalize the marker so `/carriers/AB` can still find matching records.
 
+The output files can be changed with environment variables. The monthly GitHub Actions workflow writes to the full data files:
+
+```bash
+IATA_CARRIER_FILE=carrier_data_full.jsonl IATA_AIRPORT_FILE=airport_data_full.jsonl uv run iata-fetch
+```
+
 The script includes rate limiting to prevent excessive requests to the IATA server, with a 1-second sleep interval between requests.
 
 To start the query API, run:
@@ -61,6 +67,8 @@ If it is missing, the API does not wait for IATA. It returns `202 Accepted` with
 Output files are generated in the project root:
 - `carrier_data.jsonl`: Contains airline carrier data.
 - `airport_data.jsonl`: Contains airport data.
+- `carrier_data_full.jsonl`: Full carrier data maintained by the monthly GitHub Actions workflow.
+- `airport_data_full.jsonl`: Full airport data maintained by the monthly GitHub Actions workflow.
 - `fetch_state.jsonl`: Contains fetch progress and errors.
 
 Each line in the `.jsonl` files represents one carrier or airport.

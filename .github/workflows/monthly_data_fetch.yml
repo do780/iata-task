@@ -31,13 +31,16 @@ jobs:
         run: uv sync --frozen
 
       - name: Run data fetcher
+        env:
+          IATA_CARRIER_FILE: carrier_data_full.jsonl
+          IATA_AIRPORT_FILE: airport_data_full.jsonl
         run: uv run iata-fetch
 
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add carrier_data.jsonl airport_data.jsonl fetch_state.jsonl
+          git add carrier_data_full.jsonl airport_data_full.jsonl fetch_state.jsonl
           if git diff --cached --quiet; then
             echo "No JSONL updates to commit."
             exit 0
