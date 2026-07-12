@@ -63,8 +63,8 @@
 {"Company name": "Air Inuit", "Country / Territory": "Canada", "2-letter code": "3H"}
 {"Company name": "Jetstar Asia Airways Pte Ltd", "Country / Territory": "Singapore", "2-letter code": "3K*"}
 {"Company name": "Jetstar Asia Airways Pte Ltd", "Country / Territory": "Singapore", "2-letter code": "3K"}
-{"Company name": "Air Arabia Abu Dhabi dba Air Arabia Abu Dhabi", "Country / Territory": "United Arab Emirates", "2-letter code": "3L"}
 {"Company name": "Hi Fly (Malta)", "Country / Territory": "Malta", "2-letter code": "3L*"}
+{"Company name": "Air Arabia Abu Dhabi dba Air Arabia Abu Dhabi", "Country / Territory": "United Arab Emirates", "2-letter code": "3L"}
 {"Company name": "Silver Airways LLC", "Country / Territory": "UNITED STATES OF AMERICA", "2-letter code": "3M"}
 {"Company name": "Air Urga dba IJSAC URGA", "Country / Territory": "Ukraine", "2-letter code": "3N"}
 {"Company name": "Air Arabia Maroc. dba Air Arabia Maroc", "Country / Territory": "Morocco", "2-letter code": "3O"}
@@ -98,12 +98,12 @@
 {"Company name": "Red Sea Airlines", "Country / Territory": "Egypt", "2-letter code": "4S"}
 {"Company name": "TRANSWEST AIR LIMITED dba Transwest Air/ Rise Air", "Country / Territory": "Canada", "2-letter code": "4T"}
 {"Company name": "XEJET LIMITED XEJET LIMITED", "Country / Territory": "Nigeria", "2-letter code": "4U"}
-{"Company name": "Allied Air Limited dba Allied Air", "Country / Territory": "Nigeria", "2-letter code": "4W*"}
 {"Company name": "Warbelow's Air Ventures, Inc.", "Country / Territory": "United States of America", "2-letter code": "4W"}
+{"Company name": "Allied Air Limited dba Allied Air", "Country / Territory": "Nigeria", "2-letter code": "4W*"}
 {"Company name": "Mercury Air Cargo LLC - Nevada dba Mercury World Cargo", "Country / Territory": "United States of America", "2-letter code": "4X*"}
 {"Company name": "Avion Express Malta Ltd", "Country / Territory": "Malta", "2-letter code": "4X"}
-{"Company name": "Airbus Transport International", "Country / Territory": "France", "2-letter code": "4Y*"}
 {"Company name": "EW Discover GmbH", "Country / Territory": "Germany", "2-letter code": "4Y"}
+{"Company name": "Airbus Transport International", "Country / Territory": "France", "2-letter code": "4Y*"}
 {"Company name": "Airlink (Pty) Ltd Dba Airlink", "Country / Territory": "South Africa", "2-letter code": "4Z"}
 {"Company name": "Lanexang Airways International Co. Ltd dba Lanexang Airways", "Country / Territory": "Lao People's Democratic Republic", "2-letter code": "5A"}
 {"Company name": "Bridges Air Cargo", "Country / Territory": "Malta", "2-letter code": "5B"}
@@ -115,8 +115,8 @@
 {"Company name": "ASL Airlines (Ireland) Limited dba Air Contractors", "Country / Territory": "Ireland", "2-letter code": "5H"}
 {"Company name": "Alsa Grupo SLU", "Country / Territory": "Spain", "2-letter code": "5I*"}
 {"Company name": "Cebu Air, Inc dba Cebu Pacific Air", "Country / Territory": "Philippines", "2-letter code": "5J"}
-{"Company name": "SPRINGJET, S.A.", "Country / Territory": "Portugal", "2-letter code": "5K*"}
 {"Company name": "K2 Airways Private Limited", "Country / Territory": "Pakistan", "2-letter code": "5K"}
+{"Company name": "SPRINGJET, S.A.", "Country / Territory": "Portugal", "2-letter code": "5K*"}
 {"Company name": "LIAT (2020) Limited dba Liat Air", "Country / Territory": "Antigua and Barbuda", "2-letter code": "5L"}
 {"Company name": "Montserrat Airways Limited dba Fly Montserrat", "Country / Territory": "Montserrat", "2-letter code": "5M"}
 {"Company name": "Mel Air Limited", "Country / Territory": "Malta", "2-letter code": "5M*"}
@@ -148,8 +148,8 @@
 {"Company name": "Orbest S.A. dba Iberojet", "Country / Territory": "Portugal", "2-letter code": "6O"}
 {"Company name": "Pradhaan Air Express Pvt. Ltd. dba Pradhaan Air Express", "Country / Territory": "India", "2-letter code": "6P*"}
 {"Company name": "Qingdao CIMC Special Reefer Co Ltd", "Country / Territory": "China (People's Republic of)", "2-letter code": "6Q"}
-{"Company name": "Open Joint Stock Company \"ALROSA\" (Mirny Air Enterprise)", "Country / Territory": "Russian Federation", "2-letter code": "6R"}
 {"Company name": "Aerotransporte de Carga Union, S.A. dba Aerounion", "Country / Territory": "Mexico", "2-letter code": "6R*"}
+{"Company name": "Open Joint Stock Company \"ALROSA\" (Mirny Air Enterprise)", "Country / Territory": "Russian Federation", "2-letter code": "6R"}
 {"Company name": "Longtail Aviation International Limited", "Country / Territory": "Bermuda", "2-letter code": "6T"}
 {"Company name": "Qingdao Haier Biomedical Technology Co., Ltd", "Country / Territory": "China (People's Republic of)", "2-letter code": "6U"}
 {"Company name": "Smartlynx Airlines Ltd.", "Country / Territory": "Latvia", "2-letter code": "6Y"}
@@ -179,8 +179,8 @@
 {"Company name": "Federal Airlines (Pty) Ltd", "Country / Territory": "South Africa", "2-letter code": "7V"}
 {"Company name": "Wind Rose Aviation Company", "Country / Territory": "Ukraine", "2-letter code": "7W"}
 {"Company name": "Mann Yadanarpon Airlines Co. Ltd.", "Country / Territory": "Myanmar", "2-letter code": "7Y"}
-{"Company name": "Ameristar Air Cargo, Inc.", "Country / Territory": "United States of America", "2-letter code": "7Z*"}
 {"Company name": "EZ Air BV dba Z Air", "Country / Territory": "Curacao", "2-letter code": "7Z"}
+{"Company name": "Ameristar Air Cargo, Inc.", "Country / Territory": "United States of America", "2-letter code": "7Z*"}
 {"Company name": "Panama Airways", "Country / Territory": "Panama", "2-letter code": "8A"}
 {"Company name": "PT. Transnusa Aviation Mandiri", "Country / Territory": "Indonesia", "2-letter code": "8B"}
 {"Company name": "Air Transport International Inc.", "Country / Territory": "United States of America", "2-letter code": "8C"}
@@ -197,8 +197,8 @@
 {"Company name": "Regional Air Services Limited", "Country / Territory": "Tanzania, United Republic of", "2-letter code": "8N"}
 {"Company name": "Pacific Coastal Airlines Limited", "Country / Territory": "Canada", "2-letter code": "8P"}
 {"Company name": "Regourd Aviation (dba AMELIA)", "Country / Territory": "France", "2-letter code": "8R"}
-{"Company name": "Galistair Trading Ltd", "Country / Territory": "Malta", "2-letter code": "8S"}
 {"Company name": "Shun Tak-China Travel Ship Mgmt. Ltd", "Country / Territory": "Hong Kong (SAR), China", "2-letter code": "8S*"}
+{"Company name": "Galistair Trading Ltd", "Country / Territory": "Malta", "2-letter code": "8S"}
 {"Company name": "Air Tindi Ltd.", "Country / Territory": "Canada", "2-letter code": "8T"}
 {"Company name": "Afriqiyah Airways dba Afriqiyah Airways", "Country / Territory": "Libyan Arab Jamahiriya", "2-letter code": "8U"}
 {"Company name": "Wright Air Service Inc.", "Country / Territory": "United States of America", "2-letter code": "8V"}
@@ -233,8 +233,8 @@
 {"Company name": "JSC Azimuth Airlines", "Country / Territory": "Russian Federation", "2-letter code": "A4"}
 {"Company name": "HOP! dba HOP!", "Country / Territory": "France", "2-letter code": "A5"}
 {"Company name": "Air Travel Co. Ltd.", "Country / Territory": "China (People's Republic of)", "2-letter code": "A6"}
-{"Company name": "TM Aerolineas SA de CV dba Awesome Cargo", "Country / Territory": "Mexico", "2-letter code": "A7*"}
 {"Company name": "ALS Limited", "Country / Territory": "Kenya", "2-letter code": "A7"}
+{"Company name": "TM Aerolineas SA de CV dba Awesome Cargo", "Country / Territory": "Mexico", "2-letter code": "A7*"}
 {"Company name": "Aerolink Uganda Limited", "Country / Territory": "Uganda", "2-letter code": "A8"}
 {"Company name": "Georgian Airways", "Country / Territory": "Georgia", "2-letter code": "A9"}
 {"Company name": "American Airlines", "Country / Territory": "United States of America", "2-letter code": "AA"}
@@ -255,8 +255,8 @@
 {"Company name": "Alba Star,S.A. dba Alba Star", "Country / Territory": "Spain", "2-letter code": "AP"}
 {"Company name": "9 Air Co Ltd", "Country / Territory": "China (People's Republic of)", "2-letter code": "AQ"}
 {"Company name": "Aerolineas Argentinas S.A.", "Country / Territory": "Argentina", "2-letter code": "AR"}
-{"Company name": "Alpha Sky LLP", "Country / Territory": "Kazakhstan", "2-letter code": "AS*"}
 {"Company name": "Alaska Airlines Inc", "Country / Territory": "United States of America", "2-letter code": "AS"}
+{"Company name": "Alpha Sky LLP", "Country / Territory": "Kazakhstan", "2-letter code": "AS*"}
 {"Company name": "Royal Air Maroc dba Royal Air Maroc", "Country / Territory": "Morocco", "2-letter code": "AT"}
 {"Company name": "Ascend Airways Malaysia SDN. BHD. dba Ascend Airways Malaysia", "Country / Territory": "Malaysia", "2-letter code": "AU*"}
 {"Company name": "Aerovias del Continente Americano S.A. AVIANCA", "Country / Territory": "Colombia", "2-letter code": "AV"}
@@ -322,8 +322,8 @@
 {"Company name": "Club Jet Charter, LLC", "Country / Territory": "United States of America", "2-letter code": "CE*"}
 {"Company name": "China Postal Airlines Co., Ltd.", "Country / Territory": "China (People's Republic of)", "2-letter code": "CF"}
 {"Company name": "PNG Air Limited Dba PNG AIR Limited", "Country / Territory": "Papua New Guinea", "2-letter code": "CG"}
-{"Company name": "Bemidji Aviation Services, Inc.", "Country / Territory": "United States of America", "2-letter code": "CH*"}
 {"Company name": "ROYAL AIRWAYS", "Country / Territory": "Chad", "2-letter code": "CH"}
+{"Company name": "Bemidji Aviation Services, Inc.", "Country / Territory": "United States of America", "2-letter code": "CH*"}
 {"Company name": "China Airlines Ltd.", "Country / Territory": "Chinese Taipei", "2-letter code": "CI"}
 {"Company name": "BA Cityflyer Limited", "Country / Territory": "United Kingdom", "2-letter code": "CJ"}
 {"Company name": "China Cargo Airlines Ltd.", "Country / Territory": "China (People's Republic of)", "2-letter code": "CK"}
@@ -333,10 +333,10 @@
 {"Company name": "North-Western Cargo International Airlines Co., Ltd.", "Country / Territory": "China (People's Republic of)", "2-letter code": "CO"}
 {"Company name": "MSC Air S.p.A. dba MSC Air S.p.A.", "Country / Territory": "Italy", "2-letter code": "CP*"}
 {"Company name": "Korea Container Pool Co. Ltd.", "Country / Territory": "Korea, Republic of", "2-letter code": "CP"}
-{"Company name": "Coastal Travels Ltd. dba: Coastal Air", "Country / Territory": "Tanzania, United Republic of", "2-letter code": "CQ"}
 {"Company name": "Charterlines, Inc.", "Country / Territory": "United States of America", "2-letter code": "CQ*"}
-{"Company name": "UBM Aviation - OAG", "Country / Territory": "United Kingdom", "2-letter code": "CR"}
+{"Company name": "Coastal Travels Ltd. dba: Coastal Air", "Country / Territory": "Tanzania, United Republic of", "2-letter code": "CQ"}
 {"Company name": "Miscellaneous Auxiliary Category-CR", "Country / Territory": "United States of America", "2-letter code": "CR*"}
+{"Company name": "UBM Aviation - OAG", "Country / Territory": "United Kingdom", "2-letter code": "CR"}
 {"Company name": "Chair Airlines AG", "Country / Territory": "Switzerland", "2-letter code": "CS"}
 {"Company name": "Comlux Aruba NV", "Country / Territory": "Aruba", "2-letter code": "CS*"}
 {"Company name": "Air Atlanta Europe Limited", "Country / Territory": "Malta", "2-letter code": "CT"}
@@ -345,8 +345,8 @@
 {"Company name": "SkyWest Charter LLC", "Country / Territory": "United States of America", "2-letter code": "CW"}
 {"Company name": "Cathay Pacific Airways Ltd", "Country / Territory": "Hong Kong (SAR), China", "2-letter code": "CX"}
 {"Company name": "Charlie Airlines Limited dba Cyprus Airways", "Country / Territory": "Cyprus", "2-letter code": "CY"}
-{"Company name": "China Southern Airlines Cargo Co Ltd.", "Country / Territory": "China (People's Republic of)", "2-letter code": "CZ*"}
 {"Company name": "China Southern Airlines Company Limited", "Country / Territory": "China (People's Republic of)", "2-letter code": "CZ"}
+{"Company name": "China Southern Airlines Cargo Co Ltd.", "Country / Territory": "China (People's Republic of)", "2-letter code": "CZ*"}
 {"Company name": "DHL Air (UK) Ltd", "Country / Territory": "United Kingdom", "2-letter code": "D0"}
 {"Company name": "Severstal Aircompany Ltd", "Country / Territory": "Russian Federation", "2-letter code": "D2*"}
 {"Company name": "Daallo Airlines", "Country / Territory": "United Arab Emirates", "2-letter code": "D3"}
@@ -363,8 +363,8 @@
 {"Company name": "Cebgo, Inc. dba Cebgo", "Country / Territory": "Philippines", "2-letter code": "DG"}
 {"Company name": "FlyAden", "Country / Territory": "Yemen, Republic of", "2-letter code": "DH"}
 {"Company name": "Marabu Airlines OU", "Country / Territory": "Estonia", "2-letter code": "DI"}
-{"Company name": "Air Djibouti SAS", "Country / Territory": "Djibouti", "2-letter code": "DJ"}
 {"Company name": "Maersk Air Cargo A/S", "Country / Territory": "Denmark", "2-letter code": "DJ*"}
+{"Company name": "Air Djibouti SAS", "Country / Territory": "Djibouti", "2-letter code": "DJ"}
 {"Company name": "Sunclass Airlines Aps", "Country / Territory": "Denmark", "2-letter code": "DK"}
 {"Company name": "Delta Air Lines Inc.", "Country / Territory": "United States of America", "2-letter code": "DL"}
 {"Company name": "Arajet SA dba Arajet", "Country / Territory": "Dominican Republic", "2-letter code": "DM"}
@@ -387,13 +387,13 @@
 {"Company name": "Enter Air Sp. z.o.o. Dba Enter Air Sp. z.o.o.", "Country / Territory": "Poland", "2-letter code": "E4*"}
 {"Company name": "ATA AEROTAXI ABAETE LTDA dba ATA AEROTAXI ABAETE LTDA", "Country / Territory": "Brazil", "2-letter code": "E4"}
 {"Company name": "Air Arabia Egypt", "Country / Territory": "Egypt", "2-letter code": "E5"}
-{"Company name": "Eurowings Europe Ltd.", "Country / Territory": "Malta", "2-letter code": "E6"}
 {"Company name": "Bond Air Cargo, LLC Dba Bringer Air Cargo", "Country / Territory": "United States of America", "2-letter code": "E6*"}
+{"Company name": "Eurowings Europe Ltd.", "Country / Territory": "Malta", "2-letter code": "E6"}
 {"Company name": "Estafeta Carga Aerea, S.A. de C.V", "Country / Territory": "Mexico", "2-letter code": "E7"}
 {"Company name": "BEES AIRLINES", "Country / Territory": "Romania", "2-letter code": "E8"}
 {"Company name": "Evelop Airlines S.L. dba Iberojet Airlines", "Country / Territory": "Spain", "2-letter code": "E9"}
-{"Company name": "Emerald Airlines Ireland Limited", "Country / Territory": "Ireland", "2-letter code": "EA"}
 {"Company name": "Atlantis-Air Link Ltd.", "Country / Territory": "Canada", "2-letter code": "EA*"}
+{"Company name": "Emerald Airlines Ireland Limited", "Country / Territory": "Ireland", "2-letter code": "EA"}
 {"Company name": "WAMOS AIR, S.A.", "Country / Territory": "Spain", "2-letter code": "EB"}
 {"Company name": "easyJet Europe Airline GmbH", "Country / Territory": "Austria", "2-letter code": "EC"}
 {"Company name": "AirExplore, s.r.o.", "Country / Territory": "Slovakia", "2-letter code": "ED"}
@@ -412,8 +412,8 @@
 {"Company name": "Iran Aseman Airlines", "Country / Territory": "Iran", "2-letter code": "EP"}
 {"Company name": "FLY AO-LINHAS AEREAS, LIMITADA dba FLY ANGOLA", "Country / Territory": "Angola", "2-letter code": "EQ"}
 {"Company name": "M/S Serene Air (Private) Limited", "Country / Territory": "Pakistan", "2-letter code": "ER"}
-{"Company name": "Estelar Latinoamerica C.A. dba Estelar", "Country / Territory": "Venezuela", "2-letter code": "ES"}
 {"Company name": "DHL Air (Bahrain) B.S.C. CLOSED", "Country / Territory": "Bahrain", "2-letter code": "ES*"}
+{"Company name": "Estelar Latinoamerica C.A. dba Estelar", "Country / Territory": "Venezuela", "2-letter code": "ES"}
 {"Company name": "Ethiopian Airlines dba Ethiopian Airlines", "Country / Territory": "Ethiopia", "2-letter code": "ET"}
 {"Company name": "Chengdu Airlines", "Country / Territory": "China (People's Republic of)", "2-letter code": "EU"}
 {"Company name": "Eurowings GmbH", "Country / Territory": "Germany", "2-letter code": "EW"}
@@ -445,8 +445,8 @@
 {"Company name": "Shanghai Airlines Co. Ltd.", "Country / Territory": "China (People's Republic of)", "2-letter code": "FM"}
 {"Company name": "Fastjet Zimbabwe", "Country / Territory": "Zimbabwe", "2-letter code": "FN"}
 {"Company name": "F.B. Lineas Aereas SA", "Country / Territory": "Argentina", "2-letter code": "FO"}
-{"Company name": "Pelican Airlines Pty Ltd dba Flypelican", "Country / Territory": "Australia", "2-letter code": "FP"}
 {"Company name": "Fly Pro SRL", "Country / Territory": "Moldova, Republic of", "2-letter code": "FP*"}
+{"Company name": "Pelican Airlines Pty Ltd dba Flypelican", "Country / Territory": "Australia", "2-letter code": "FP"}
 {"Company name": "Crown Airlines dba Crown Airlines", "Country / Territory": "Libyan Arab Jamahiriya", "2-letter code": "FQ"}
 {"Company name": "Ryanair Ltd.", "Country / Territory": "Ireland", "2-letter code": "FR"}
 {"Company name": "FlyArystan JSC", "Country / Territory": "Kazakhstan", "2-letter code": "FS"}
@@ -454,8 +454,8 @@
 {"Company name": "FROST Air ApS", "Country / Territory": "Sweden", "2-letter code": "FT"}
 {"Company name": "Fuzhou Airlines Co., Ltd", "Country / Territory": "China (People's Republic of)", "2-letter code": "FU"}
 {"Company name": "Rossiya Airlines JSC", "Country / Territory": "Russian Federation", "2-letter code": "FV"}
-{"Company name": "Solenta Aviation Mozambique SA dba Solenta Aviation Mozambique SA", "Country / Territory": "Mozambique", "2-letter code": "FW*"}
 {"Company name": "IBEX Airlines Co., Ltd.", "Country / Territory": "Japan", "2-letter code": "FW"}
+{"Company name": "Solenta Aviation Mozambique SA dba Solenta Aviation Mozambique SA", "Country / Territory": "Mozambique", "2-letter code": "FW*"}
 {"Company name": "Federal Express Corporation dba FedEx Express", "Country / Territory": "United States of America", "2-letter code": "FX"}
 {"Company name": "FlyFirefly Sdn. Bhd dba Firefly", "Country / Territory": "Malaysia", "2-letter code": "FY"}
 {"Company name": "flydubai dba Dubai Aviation Corporation \"FlyDubai\"", "Country / Territory": "United Arab Emirates", "2-letter code": "FZ"}
@@ -469,8 +469,8 @@
 {"Company name": "Air Arabia dba Air Arabia PJSC", "Country / Territory": "United Arab Emirates", "2-letter code": "G9"}
 {"Company name": "Garuda Indonesia dba Garuda Indonesia", "Country / Territory": "Indonesia", "2-letter code": "GA"}
 {"Company name": "ABX Air, Inc.", "Country / Territory": "United States of America", "2-letter code": "GB"}
-{"Company name": "Gelix Airlines, JSC", "Country / Territory": "Russian Federation", "2-letter code": "GC*"}
 {"Company name": "Global Feeder Services, LLC", "Country / Territory": "United States of America", "2-letter code": "GC"}
+{"Company name": "Gelix Airlines, JSC", "Country / Territory": "Russian Federation", "2-letter code": "GC*"}
 {"Company name": "AVIAIR PTY LTD Dba NEXUS AIRLINES, AVIAIR", "Country / Territory": "Australia", "2-letter code": "GD"}
 {"Company name": "Global Aviation Operations (PTY)Ltd dba Global Airways and Lift", "Country / Territory": "South Africa", "2-letter code": "GE"}
 {"Company name": "Gulf Air B.S.C. (c)", "Country / Territory": "Bahrain", "2-letter code": "GF"}
@@ -482,8 +482,8 @@
 {"Company name": "Jetstar Japan Co., Ltd.", "Country / Territory": "Japan", "2-letter code": "GK"}
 {"Company name": "Air Greenland", "Country / Territory": "Greenland", "2-letter code": "GL"}
 {"Company name": "PT.Tri-MG Intra Asia Airlines dba Asia Cargo Airlines", "Country / Territory": "Indonesia", "2-letter code": "GM"}
-{"Company name": "Air Ghana Limited", "Country / Territory": "Ghana", "2-letter code": "GO"}
 {"Company name": "ULS Airlines Cargo", "Country / Territory": "Turkiye", "2-letter code": "GO*"}
+{"Company name": "Air Ghana Limited", "Country / Territory": "Ghana", "2-letter code": "GO"}
 {"Company name": "APG Airlines", "Country / Territory": "France", "2-letter code": "GP"}
 {"Company name": "Sky Express S.A.", "Country / Territory": "Greece", "2-letter code": "GQ"}
 {"Company name": "Aurigny Air Services Limited", "Country / Territory": "United Kingdom", "2-letter code": "GR"}
@@ -491,8 +491,8 @@
 {"Company name": "Air Guilin Co. Ltd.", "Country / Territory": "China (People's Republic of)", "2-letter code": "GT"}
 {"Company name": "AVIATECA, S.A.", "Country / Territory": "Guatemala", "2-letter code": "GU"}
 {"Company name": "Grant Aviation, Inc.", "Country / Territory": "United States of America", "2-letter code": "GV"}
-{"Company name": "Costa Rica Green Airways S.R.L dba Costa Rica Green Airways S.R.L", "Country / Territory": "Costa Rica", "2-letter code": "GW"}
 {"Company name": "GetJet Airlines Dba GetJet Airlines", "Country / Territory": "Lithuania", "2-letter code": "GW*"}
+{"Company name": "Costa Rica Green Airways S.R.L dba Costa Rica Green Airways S.R.L", "Country / Territory": "Costa Rica", "2-letter code": "GW"}
 {"Company name": "Guangxi Beibu Gulf Airlines Co.,Ltd", "Country / Territory": "China (People's Republic of)", "2-letter code": "GX"}
 {"Company name": "Colorful GuiZhou Airlines Co., Ltd", "Country / Territory": "China (People's Republic of)", "2-letter code": "GY"}
 {"Company name": "Air Rarotonga Ltd", "Country / Territory": "Cook Islands", "2-letter code": "GZ"}
@@ -520,8 +520,8 @@
 {"Company name": "Tasman Cargo Airlines Pty Ltd", "Country / Territory": "Australia", "2-letter code": "HJ*"}
 {"Company name": "Skippers Aviation Pty Ltd.", "Country / Territory": "Australia", "2-letter code": "HK"}
 {"Company name": "Air Seychelles Limited", "Country / Territory": "Seychelles", "2-letter code": "HM"}
-{"Company name": "Hadhramout Airways", "Country / Territory": "Yemen, Republic of", "2-letter code": "HN"}
 {"Company name": "Heston Airlines dba Heston Airlines", "Country / Territory": "Lithuania", "2-letter code": "HN*"}
+{"Company name": "Hadhramout Airways", "Country / Territory": "Yemen, Republic of", "2-letter code": "HN"}
 {"Company name": "Juneyao Airlines Co,. Ltd.", "Country / Territory": "China (People's Republic of)", "2-letter code": "HO"}
 {"Company name": "Amapola Flyg AB dba PopulAir", "Country / Territory": "Sweden", "2-letter code": "HP"}
 {"Company name": "Compass Cargo Airlines Ltd.", "Country / Territory": "Bulgaria", "2-letter code": "HQ"}
@@ -586,8 +586,8 @@
 {"Company name": "Jettainer GmbH", "Country / Territory": "Germany", "2-letter code": "JE*"}
 {"Company name": "OTT AIRLINES CO., LTD", "Country / Territory": "People's Republic of China", "2-letter code": "JF"}
 {"Company name": "OTT AIRLINES CO., LTD", "Country / Territory": "China (People's Republic of)", "2-letter code": "JF"}
-{"Company name": "Jiangsu Jingdong Cargo Airlines CO Ltd", "Country / Territory": "China (People's Republic of)", "2-letter code": "JG"}
 {"Company name": "Airline Container Leasing Inc.", "Country / Territory": "United States of America", "2-letter code": "JG*"}
+{"Company name": "Jiangsu Jingdong Cargo Airlines CO Ltd", "Country / Territory": "China (People's Republic of)", "2-letter code": "JG"}
 {"Company name": "Fuji Dream Airlines Co. Ltd", "Country / Territory": "Japan", "2-letter code": "JH"}
 {"Company name": "Armenian Airlines Limited Liability", "Country / Territory": "Armenia", "2-letter code": "JI"}
 {"Company name": "Tam Linhas Aereas SA dba Latam Airlines Brasil", "Country / Territory": "Brazil", "2-letter code": "JJ"}
@@ -610,15 +610,15 @@
 {"Company name": "National Air Charters, Inc.", "Country / Territory": "United States of America", "2-letter code": "JY*"}
 {"Company name": "JetSMART Airlines Peru S.A.C.", "Country / Territory": "Peru", "2-letter code": "JZ"}
 {"Company name": "PAKLOOK AIR INC. dba Yute Commuter Service", "Country / Territory": "United States of America", "2-letter code": "K2"}
-{"Company name": "SAC (K) Limited", "Country / Territory": "Kenya", "2-letter code": "K3"}
 {"Company name": "Venture Travel, LLC dba Taquan Air", "Country / Territory": "United States of America", "2-letter code": "K3*"}
+{"Company name": "SAC (K) Limited", "Country / Territory": "Kenya", "2-letter code": "K3"}
 {"Company name": "Kalitta Air, LLC", "Country / Territory": "United States of America", "2-letter code": "K4"}
-{"Company name": "Skycooler Limited", "Country / Territory": "United Kingdom", "2-letter code": "K5"}
 {"Company name": "Kalitta Charters II LLC", "Country / Territory": "United States of America", "2-letter code": "K5*"}
+{"Company name": "Skycooler Limited", "Country / Territory": "United Kingdom", "2-letter code": "K5"}
 {"Company name": "Air Cambodia dba Air Cambodia Co., Ltd", "Country / Territory": "Cambodia", "2-letter code": "K6"}
 {"Company name": "Mingalar Aviation Services Co., Ltd. Dba Mingalar Airlines", "Country / Territory": "Myanmar", "2-letter code": "K7"}
-{"Company name": "InterJet West, Inc.", "Country / Territory": "United States of America", "2-letter code": "K8*"}
 {"Company name": "Mercury ULD Limited", "Country / Territory": "Hong Kong (SAR), China", "2-letter code": "K8"}
+{"Company name": "InterJet West, Inc.", "Country / Territory": "United States of America", "2-letter code": "K8*"}
 {"Company name": "TEZ JET LLC dba LLC TEZ JET", "Country / Territory": "Kyrgyzstan", "2-letter code": "K9"}
 {"Company name": "Kalitta Charters, L.L.C.", "Country / Territory": "United States of America", "2-letter code": "K9*"}
 {"Company name": "\"Aero Nomad Airlines\" LLC dba \"Aero Nomad Airlines\" LLC", "Country / Territory": "Kyrgyzstan", "2-letter code": "KA"}
@@ -658,15 +658,15 @@
 {"Company name": "Lulutai Airlines Limited dba Lulutai Airlines", "Country / Territory": "Tonga", "2-letter code": "L8"}
 {"Company name": "Lumiwings S.A dba Lumiwings", "Country / Territory": "Greece", "2-letter code": "L9"}
 {"Company name": "LATAM Airlines Group SA dba Lan Airlines", "Country / Territory": "Chile", "2-letter code": "LA"}
-{"Company name": "Libyan Express dba Libyan Express", "Country / Territory": "Libyan Arab Jamahiriya", "2-letter code": "LB"}
 {"Company name": "Bul Air Ltd.", "Country / Territory": "Bulgaria", "2-letter code": "LB*"}
+{"Company name": "Libyan Express dba Libyan Express", "Country / Territory": "Libyan Arab Jamahiriya", "2-letter code": "LB"}
 {"Company name": "Aerotaxi La Costena S.A.", "Country / Territory": "Nicaragua", "2-letter code": "LC"}
 {"Company name": "Air Hong Kong dba AHK Air Hong Kong Ltd", "Country / Territory": "Hong Kong (SAR), China", "2-letter code": "LD"}
 {"Company name": "ST BARTH EXECUTIVE Dba ST BARTH EXECUTIVE", "Country / Territory": "Saint Barthelemy", "2-letter code": "LE"}
 {"Company name": "Corporate Flight Management, Inc.", "Country / Territory": "United States of America", "2-letter code": "LF"}
 {"Company name": "Luxair SA", "Country / Territory": "Luxembourg", "2-letter code": "LG"}
-{"Company name": "Lufthansa", "Country / Territory": "Germany", "2-letter code": "LH"}
 {"Company name": "Lufthansa Cargo AG", "Country / Territory": "Germany", "2-letter code": "LH"}
+{"Company name": "Lufthansa", "Country / Territory": "Germany", "2-letter code": "LH"}
 {"Company name": "Jin Air Co., Ltd", "Country / Territory": "Korea, Republic of", "2-letter code": "LJ"}
 {"Company name": "Lao Skyway dba Commercial Air Transport and Charter", "Country / Territory": "Lao People's Democratic Republic", "2-letter code": "LK"}
 {"Company name": "FLY LEVEL BARCELONA LH, SL dba Level", "Country / Territory": "Spain", "2-letter code": "LL"}
@@ -685,8 +685,8 @@
 {"Company name": "AIR LINK PTY. LIMITED dba Altitude Aviation Australia", "Country / Territory": "Australia", "2-letter code": "LZ"}
 {"Company name": "Aero Mongolia", "Country / Territory": "Mongolia", "2-letter code": "M0"}
 {"Company name": "Amber Aero", "Country / Territory": "Latvia", "2-letter code": "M1"}
-{"Company name": "Sunrise Airlines Inc", "Country / Territory": "United States of America", "2-letter code": "M2*"}
 {"Company name": "MHS Aviation GmbH", "Country / Territory": "Germany", "2-letter code": "M2"}
+{"Company name": "Sunrise Airlines Inc", "Country / Territory": "United States of America", "2-letter code": "M2*"}
 {"Company name": "ABSA  -  Aerolinhas Brasileiras S.A dba LATAM Cargo Brasil", "Country / Territory": "Brazil", "2-letter code": "M3"}
 {"Company name": "Poste Air Cargo s.r.l. dba Poste Air Cargo", "Country / Territory": "Italy", "2-letter code": "M4"}
 {"Company name": "Kenmore Air Harbor, LLC", "Country / Territory": "United States of America", "2-letter code": "M5"}
@@ -703,8 +703,8 @@
 {"Company name": "Xiamen Airlines", "Country / Territory": "China (People's Republic of)", "2-letter code": "MF"}
 {"Company name": "EZNIS AIRWAYS LLC", "Country / Territory": "Mongolia", "2-letter code": "MG"}
 {"Company name": "Malaysia Airlines Berhad dba Malaysia Airlines", "Country / Territory": "Malaysia", "2-letter code": "MH"}
-{"Company name": "PT RAFFLES GLOBAL ANGKASA dba Black Stone Airlines", "Country / Territory": "Indonesia", "2-letter code": "MI*"}
 {"Company name": "Freebird Airlines Europe Ltd.", "Country / Territory": "Malta", "2-letter code": "MI"}
+{"Company name": "PT RAFFLES GLOBAL ANGKASA dba Black Stone Airlines", "Country / Territory": "Indonesia", "2-letter code": "MI*"}
 {"Company name": "Myway Airlines Co.,LTD", "Country / Territory": "Georgia", "2-letter code": "MJ"}
 {"Company name": "Air Mauritius", "Country / Territory": "Mauritius", "2-letter code": "MK"}
 {"Company name": "MINRES AIR FLIGHT OPERATIONS PTY LTD", "Country / Territory": "Australia", "2-letter code": "ML*"}
@@ -714,8 +714,8 @@
 {"Company name": "Calm Air International Ltd.", "Country / Territory": "Canada", "2-letter code": "MO"}
 {"Company name": "Martinair Holland N.V.", "Country / Territory": "Netherlands", "2-letter code": "MP"}
 {"Company name": "Envoy Air Inc", "Country / Territory": "United States of America", "2-letter code": "MQ"}
-{"Company name": "Air Master Aviation LLC", "Country / Territory": "Egypt", "2-letter code": "MR*"}
 {"Company name": "Hunnu Air LLC", "Country / Territory": "Mongolia", "2-letter code": "MR"}
+{"Company name": "Air Master Aviation LLC", "Country / Territory": "Egypt", "2-letter code": "MR*"}
 {"Company name": "Egyptair", "Country / Territory": "Egypt", "2-letter code": "MS"}
 {"Company name": "Malta Air Travel Ltd dba Malta MedAir", "Country / Territory": "Malta", "2-letter code": "MT"}
 {"Company name": "China Eastern Airlines Co Ltd.", "Country / Territory": "China (People's Republic of)", "2-letter code": "MU"}
@@ -872,8 +872,8 @@
 {"Company name": "Rano Air Limited dba Rano Air Limited", "Country / Territory": "Nigeria", "2-letter code": "R4"}
 {"Company name": "Jordan Aviation dba Jordan Aviation Airlines", "Country / Territory": "Jordan", "2-letter code": "R5"}
 {"Company name": "UAB DAT LT dba DAT", "Country / Territory": "Lithuania", "2-letter code": "R6*"}
-{"Company name": "Unilode Aviation Solutions Switzerland Ltd.", "Country / Territory": "Switzerland", "2-letter code": "R7*"}
 {"Company name": "7AIR, LLC.", "Country / Territory": "United States of America", "2-letter code": "R7"}
+{"Company name": "Unilode Aviation Solutions Switzerland Ltd.", "Country / Territory": "Switzerland", "2-letter code": "R7*"}
 {"Company name": "Trans Executive Airlines of Hawaii", "Country / Territory": "United States of America", "2-letter code": "R9*"}
 {"Company name": "Unilode Aviation Solutions UK Limit", "Country / Territory": "United Kingdom", "2-letter code": "R9"}
 {"Company name": "Nepal Airlines Corporation", "Country / Territory": "Nepal", "2-letter code": "RA"}
@@ -915,20 +915,20 @@
 {"Company name": "Sky Capital Airlines Limited dba Sky Air", "Country / Territory": "Bangladesh", "2-letter code": "S8*"}
 {"Company name": "Tri-State Charter", "Country / Territory": "United States of America", "2-letter code": "S9"}
 {"Company name": "South African Airways Soc Ltd dba South African Airways", "Country / Territory": "South Africa", "2-letter code": "SA"}
-{"Company name": "Air Caledonie International dba Air Calin", "Country / Territory": "New Caledonia", "2-letter code": "SB"}
 {"Company name": "SKYBLUE JET MANAGEMENT LLC", "Country / Territory": "United States of America", "2-letter code": "SB*"}
+{"Company name": "Air Caledonie International dba Air Calin", "Country / Territory": "New Caledonia", "2-letter code": "SB"}
 {"Company name": "Shandong Airlines", "Country / Territory": "China (People's Republic of)", "2-letter code": "SC"}
 {"Company name": "Sudan Airways Co. Ltd.", "Country / Territory": "Sudan", "2-letter code": "SD"}
 {"Company name": "SKY VISION AIRLINES", "Country / Territory": "Egypt", "2-letter code": "SE*"}
 {"Company name": "Tassili Airlines dba Domestic Airlines", "Country / Territory": "Algeria", "2-letter code": "SF"}
 {"Company name": "Spicejet Ltd dba Spicejet", "Country / Territory": "India", "2-letter code": "SG"}
-{"Company name": "Solitair Aviation Services DWC-LLC", "Country / Territory": "United Arab Emirates", "2-letter code": "SH*"}
 {"Company name": "Sharp Aviation Pty. Ltd t/a Sharp Airlines", "Country / Territory": "Australia", "2-letter code": "SH"}
+{"Company name": "Solitair Aviation Services DWC-LLC", "Country / Territory": "United Arab Emirates", "2-letter code": "SH*"}
 {"Company name": "Sierra Pacific Airlines, Inc.", "Country / Territory": "United States of America", "2-letter code": "SI*"}
 {"Company name": "PT. Sriwijaya Air dba Sriwijaya Air", "Country / Territory": "Indonesia", "2-letter code": "SJ"}
 {"Company name": "Scandinavian Airlines Systems", "Country / Territory": "Sweden", "2-letter code": "SK"}
-{"Company name": "Thai Lion Mentari Company Limited dba Thai Lion Air", "Country / Territory": "Thailand", "2-letter code": "SL"}
 {"Company name": "Scandinavian Airlines Ireland Limited dba SAS Connect", "Country / Territory": "Ireland", "2-letter code": "SL*"}
+{"Company name": "Thai Lion Mentari Company Limited dba Thai Lion Air", "Country / Territory": "Thailand", "2-letter code": "SL"}
 {"Company name": "Air Cairo", "Country / Territory": "Egypt", "2-letter code": "SM"}
 {"Company name": "Brussels Airlines", "Country / Territory": "Belgium", "2-letter code": "SN"}
 {"Company name": "Sun Air Aviation", "Country / Territory": "Sudan", "2-letter code": "SO"}
@@ -955,8 +955,8 @@
 {"Company name": "Twin Jet", "Country / Territory": "France", "2-letter code": "T7"}
 {"Company name": "CA Terra Avia SRL", "Country / Territory": "Moldova, Republic of", "2-letter code": "T8*"}
 {"Company name": "Turpial Airlines, C.A.", "Country / Territory": "Venezuela", "2-letter code": "T9"}
-{"Company name": "TACA International Airlines S.A.", "Country / Territory": "El Salvador", "2-letter code": "TA"}
 {"Company name": "Transafrican Air Ltd", "Country / Territory": "Kenya", "2-letter code": "TA*"}
+{"Company name": "TACA International Airlines S.A.", "Country / Territory": "El Salvador", "2-letter code": "TA"}
 {"Company name": "TUI Airlines Belgium N.V dba TUI fly", "Country / Territory": "Belgium", "2-letter code": "TB"}
 {"Company name": "AIR TANZANIA COMPANY LTD", "Country / Territory": "Tanzania, United Republic of", "2-letter code": "TC"}
 {"Company name": "Tbilisi Airways LLC dba Aircompany ''Tbilisi Airways''", "Country / Territory": "Georgia", "2-letter code": "TD"}
@@ -1053,8 +1053,8 @@
 {"Company name": "Viet Nam Travel Airlines JSC Dba Vietravel Airlines", "Country / Territory": "Viet Nam", "2-letter code": "VU"}
 {"Company name": "PATTAYA Airways Company Ltd dba PATTAYA Airways Company Ltd", "Country / Territory": "Thailand", "2-letter code": "VV*"}
 {"Company name": "Vueling Airline SA", "Country / Territory": "Spain", "2-letter code": "VY"}
-{"Company name": "Air Express S.A. dba Airclass Lineas Aereas", "Country / Territory": "Uruguay", "2-letter code": "VZ*"}
 {"Company name": "Thai Vietjet Air", "Country / Territory": "Thailand", "2-letter code": "VZ"}
+{"Company name": "Air Express S.A. dba Airclass Lineas Aereas", "Country / Territory": "Uruguay", "2-letter code": "VZ*"}
 {"Company name": "World Ticket Ltd", "Country / Territory": "Denmark", "2-letter code": "W1"}
 {"Company name": "FlexFlight ApS", "Country / Territory": "Denmark", "2-letter code": "W2"}
 {"Company name": "Arik Air Limited dba Arik Air Limited", "Country / Territory": "Nigeria", "2-letter code": "W3"}
@@ -1086,16 +1086,16 @@
 {"Company name": "Swiftair, S.A.", "Country / Territory": "Spain", "2-letter code": "WT"}
 {"Company name": "Western Air Ltd.", "Country / Territory": "Bahamas", "2-letter code": "WU"}
 {"Company name": "FlyNamibia Aviation (Pty) Ltd. dba Fly Namibia", "Country / Territory": "Namibia", "2-letter code": "WV"}
-{"Company name": "Rutas Aereas de Venezuela RAV S.A Dba RAVSA", "Country / Territory": "Venezuela", "2-letter code": "WW"}
 {"Company name": "MJets Air Sdn. Bhd. Dba MJets Air", "Country / Territory": "Malaysia", "2-letter code": "WW*"}
+{"Company name": "Rutas Aereas de Venezuela RAV S.A Dba RAVSA", "Country / Territory": "Venezuela", "2-letter code": "WW"}
 {"Company name": "Cityjet", "Country / Territory": "Ireland", "2-letter code": "WX"}
 {"Company name": "Oman Air (S.A.O.C)", "Country / Territory": "Oman", "2-letter code": "WY"}
 {"Company name": "Joint Stock Company Red Wings", "Country / Territory": "Russian Federation", "2-letter code": "WZ"}
 {"Company name": "Hahn Air Technologies GmbH", "Country / Territory": "Germany", "2-letter code": "X1"}
 {"Company name": "TUIfly Gmbh", "Country / Territory": "Germany", "2-letter code": "X3"}
 {"Company name": "Air Excursion, LLC", "Country / Territory": "United States of America", "2-letter code": "X4"}
-{"Company name": "Aeronova S.L. dba Air Europa Express", "Country / Territory": "Spain", "2-letter code": "X5*"}
 {"Company name": "JuniPogo LLC", "Country / Territory": "United States of America", "2-letter code": "X5"}
+{"Company name": "Aeronova S.L. dba Air Europa Express", "Country / Territory": "Spain", "2-letter code": "X5*"}
 {"Company name": "Challenge Air Cargo Ltd", "Country / Territory": "Malta", "2-letter code": "X6"}
 {"Company name": "Challenge Airlines (BE) S.A.", "Country / Territory": "Belgium", "2-letter code": "X7"}
 {"Company name": "JSC \"Avion Express\"", "Country / Territory": "Lithuania", "2-letter code": "X9"}
@@ -1103,8 +1103,8 @@
 {"Company name": "IATA-Default Insurance Program", "Country / Territory": "Canada", "2-letter code": "XB"}
 {"Company name": "IATA Clearing House", "Country / Territory": "Switzerland", "2-letter code": "XB"}
 {"Company name": "Turistik Hava Tasimacilik AS Dba Corendon Airlines", "Country / Territory": "Turkiye", "2-letter code": "XC"}
-{"Company name": "Universal Air Travel Plan (UATP) (Annual Dues)", "Country / Territory": "United States of America", "2-letter code": "XD"}
 {"Company name": "Air Transport Association of Americ d\\b\\a Airlines for America", "Country / Territory": "United States of America", "2-letter code": "XD"}
+{"Company name": "Universal Air Travel Plan (UATP) (Annual Dues)", "Country / Territory": "United States of America", "2-letter code": "XD"}
 {"Company name": "Delux Public Charter dba JSX Air", "Country / Territory": "United States of America", "2-letter code": "XE"}
 {"Company name": "Mongolian Airways LLC", "Country / Territory": "Mongolia", "2-letter code": "XF"}
 {"Company name": "USC GmbH", "Country / Territory": "Germany", "2-letter code": "XG"}
@@ -1175,8 +1175,8 @@
 {"Company name": "Silk Way Airlines LLC", "Country / Territory": "Azerbaijan", "2-letter code": "ZP*"}
 {"Company name": "German Airways GmbH", "Country / Territory": "Germany", "2-letter code": "ZQ"}
 {"Company name": "Aviacon Zitotrans Air Company JSC", "Country / Territory": "Russian Federation", "2-letter code": "ZR*"}
-{"Company name": "Aviation Horizons Ltd", "Country / Territory": "Saudi Arabia", "2-letter code": "ZS*"}
 {"Company name": "SOLINAIR Latelsko Podjetje d.o.o.", "Country / Territory": "Slovenia", "2-letter code": "ZS"}
+{"Company name": "Aviation Horizons Ltd", "Country / Territory": "Saudi Arabia", "2-letter code": "ZS*"}
 {"Company name": "Titan Airways Ltd", "Country / Territory": "United Kingdom", "2-letter code": "ZT"}
 {"Company name": "Aerotransportes Rafilher S.A. de C. dba Aerus", "Country / Territory": "Mexico", "2-letter code": "ZV"}
 {"Company name": "Air Wisconsin Airlines Corporation (AWAC)", "Country / Territory": "United States of America", "2-letter code": "ZW"}
