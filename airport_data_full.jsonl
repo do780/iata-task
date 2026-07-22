@@ -86,8 +86,8 @@
 {"City Name": "Amman", "Airport Name": "Marka Intl", "3-letter location code": "ADJ"}
 {"City Name": "Adak Island", "Airport Name": "Adak Island Airport", "3-letter location code": "ADK"}
 {"City Name": "Adelaide", "Airport Name": "Adelaide Intl.", "3-letter location code": "ADL"}
-{"City Name": "Ardmore", "Airport Name": "Ardmore Municipal", "3-letter location code": "ADM"}
 {"City Name": "Ardmore", "Airport Name": "Metropolitan Area", "3-letter location code": "ADM"}
+{"City Name": "Ardmore", "Airport Name": "Ardmore Municipal", "3-letter location code": "ADM"}
 {"City Name": "Andes", "Airport Name": "Andes Airport", "3-letter location code": "ADN"}
 {"City Name": "Andamooka", "Airport Name": "Andamooka Airport", "3-letter location code": "ADO"}
 {"City Name": "Ampara", "Airport Name": "Gal Oya", "3-letter location code": "ADP"}
@@ -222,8 +222,8 @@
 {"City Name": "Akiak", "Airport Name": "Akiak Airport", "3-letter location code": "AKI"}
 {"City Name": "Asahikawa", "Airport Name": "Asahikawa Airport", "3-letter location code": "AKJ"}
 {"City Name": "Akhiok", "Airport Name": "Akhiok Airport", "3-letter location code": "AKK"}
-{"City Name": "Auckland", "Airport Name": "Metropolitan Area", "3-letter location code": "AKL"}
 {"City Name": "Auckland", "Airport Name": "Auckland Intl.", "3-letter location code": "AKL"}
+{"City Name": "Auckland", "Airport Name": "Metropolitan Area", "3-letter location code": "AKL"}
 {"City Name": "Zakouma", "Airport Name": "Zakouma Airport", "3-letter location code": "AKM"}
 {"City Name": "King Salmon", "Airport Name": "King Salmon Airport", "3-letter location code": "AKN"}
 {"City Name": "Akron", "Airport Name": "Colorado Plains Rgnl", "3-letter location code": "AKO"}
@@ -301,8 +301,8 @@
 {"City Name": "Angouleme", "Airport Name": "Brie-Champniers", "3-letter location code": "ANG"}
 {"City Name": "Aniak", "Airport Name": "Aniak Airport", "3-letter location code": "ANI"}
 {"City Name": "Zanaga", "Airport Name": "Zanaga Airport", "3-letter location code": "ANJ"}
-{"City Name": "Ankara", "Airport Name": "Metropolitan Area", "3-letter location code": "ANK"}
 {"City Name": "Ankara", "Airport Name": "Etimesgut", "3-letter location code": "ANK"}
+{"City Name": "Ankara", "Airport Name": "Metropolitan Area", "3-letter location code": "ANK"}
 {"City Name": "Andulo", "Airport Name": "Andulo Airport", "3-letter location code": "ANL"}
 {"City Name": "Antalaha", "Airport Name": "Antsirabato", "3-letter location code": "ANM"}
 {"City Name": "Annette Island", "Airport Name": "Annette Island Airport", "3-letter location code": "ANN"}
@@ -438,8 +438,8 @@
 {"City Name": "Altamira", "Airport Name": "Altamira Airport", "3-letter location code": "ATM"}
 {"City Name": "Namatanai", "Airport Name": "Namatanai Airport", "3-letter location code": "ATN"}
 {"City Name": "Athens", "Airport Name": "Ohio University", "3-letter location code": "ATO"}
-{"City Name": "Aitape", "Airport Name": "Aitape Airstrip", "3-letter location code": "ATP"}
 {"City Name": "Aitape", "Airport Name": "Metropolitan Area", "3-letter location code": "ATP"}
+{"City Name": "Aitape", "Airport Name": "Aitape Airstrip", "3-letter location code": "ATP"}
 {"City Name": "Amritsar", "Airport Name": "Sri Guru Ram Dass Jee", "3-letter location code": "ATQ"}
 {"City Name": "Atar", "Airport Name": "Atar Intl.", "3-letter location code": "ATR"}
 {"City Name": "Artesia", "Airport Name": "Artesia Municipal", "3-letter location code": "ATS"}
@@ -456,8 +456,8 @@
 {"City Name": "Abu Rudeis", "Airport Name": "Abu Rudeis Airport", "3-letter location code": "AUE"}
 {"City Name": "Auxerre", "Airport Name": "Branches", "3-letter location code": "AUF"}
 {"City Name": "Augusta", "Airport Name": "State", "3-letter location code": "AUG"}
-{"City Name": "Abu Dhabi", "Airport Name": "Metropolitan Area", "3-letter location code": "AUH"}
 {"City Name": "Abu Dhabi", "Airport Name": "Zayed Intl.", "3-letter location code": "AUH"}
+{"City Name": "Abu Dhabi", "Airport Name": "Metropolitan Area", "3-letter location code": "AUH"}
 {"City Name": "Aua Island", "Airport Name": "Aua Island Airport", "3-letter location code": "AUI"}
 {"City Name": "Ambunti", "Airport Name": "Ambunti Airport", "3-letter location code": "AUJ"}
 {"City Name": "Alakanuk", "Airport Name": "Alakanuk Airport", "3-letter location code": "AUK"}
@@ -473,8 +473,8 @@
 {"City Name": "Atauro", "Airport Name": "Atauro Airport", "3-letter location code": "AUT"}
 {"City Name": "Aurukun", "Airport Name": "Aurukun Airport", "3-letter location code": "AUU"}
 {"City Name": "Aumo", "Airport Name": "Aumo Airport", "3-letter location code": "AUV"}
-{"City Name": "Wausau", "Airport Name": "Downtown Apt", "3-letter location code": "AUW"}
 {"City Name": "Wausau", "Airport Name": "Metropolitan Area", "3-letter location code": "AUW"}
+{"City Name": "Wausau", "Airport Name": "Downtown Apt", "3-letter location code": "AUW"}
 {"City Name": "Araguaina", "Airport Name": "Araguaina Airport", "3-letter location code": "AUX"}
 {"City Name": "Anatom Island", "Airport Name": "Anatom Island Airport", "3-letter location code": "AUY"}
 {"City Name": "Aurora", "Airport Name": "Aurora Municipal", "3-letter location code": "AUZ"}
@@ -679,8 +679,8 @@
 {"City Name": "Berlin", "Airport Name": "Metropolitan Area", "3-letter location code": "BER"}
 {"City Name": "Berlin", "Airport Name": "Brandenburg", "3-letter location code": "BER"}
 {"City Name": "Brest", "Airport Name": "Bretagne", "3-letter location code": "BES"}
-{"City Name": "Bethel", "Airport Name": "Metropolitan Area", "3-letter location code": "BET"}
 {"City Name": "Bethel", "Airport Name": "Bethel Airport", "3-letter location code": "BET"}
+{"City Name": "Bethel", "Airport Name": "Metropolitan Area", "3-letter location code": "BET"}
 {"City Name": "Bedourie", "Airport Name": "Bedourie Airport", "3-letter location code": "BEU"}
 {"City Name": "Beersheba", "Airport Name": "Beersheba Airport", "3-letter location code": "BEV"}
 {"City Name": "Beira", "Airport Name": "Beira Airport", "3-letter location code": "BEW"}
@@ -704,8 +704,8 @@
 {"City Name": "Beaver Falls", "Airport Name": "Beaver County", "3-letter location code": "BFP"}
 {"City Name": "Bahia Pina", "Airport Name": "Bahia Pina Airport", "3-letter location code": "BFQ"}
 {"City Name": "Bedford", "Airport Name": "Virgil I Grissom Muni", "3-letter location code": "BFR"}
-{"City Name": "Belfast", "Airport Name": "Metropolitan Area", "3-letter location code": "BFS"}
 {"City Name": "Belfast", "Airport Name": "Belfast Intl.", "3-letter location code": "BFS"}
+{"City Name": "Belfast", "Airport Name": "Metropolitan Area", "3-letter location code": "BFS"}
 {"City Name": "Beaufort", "Airport Name": "Beaufort County", "3-letter location code": "BFT"}
 {"City Name": "Bengbu", "Airport Name": "Bengbu Airport", "3-letter location code": "BFU"}
 {"City Name": "Buriram", "Airport Name": "Buriram Airport", "3-letter location code": "BFV"}
@@ -825,8 +825,8 @@
 {"City Name": "Kekaha", "Airport Name": "Barking Sands", "3-letter location code": "BKH"}
 {"City Name": "Kota Kinabalu", "Airport Name": "Kota Kinabalu Intl.", "3-letter location code": "BKI"}
 {"City Name": "Boke", "Airport Name": "Baralande", "3-letter location code": "BKJ"}
-{"City Name": "Bangkok", "Airport Name": "Metropolitan Area", "3-letter location code": "BKK"}
 {"City Name": "Bangkok", "Airport Name": "Suvarnabhumi Int'l", "3-letter location code": "BKK"}
+{"City Name": "Bangkok", "Airport Name": "Metropolitan Area", "3-letter location code": "BKK"}
 {"City Name": "Cleveland", "Airport Name": "Burke Lakefront", "3-letter location code": "BKL"}
 {"City Name": "Bakelalan", "Airport Name": "Bakelalan Airport", "3-letter location code": "BKM"}
 {"City Name": "Jebel", "Airport Name": "Balkanabat International", "3-letter location code": "BKN"}
@@ -936,8 +936,8 @@
 {"City Name": "Bouar", "Airport Name": "Bouar Airport", "3-letter location code": "BOP"}
 {"City Name": "Boku", "Airport Name": "Boku Airport", "3-letter location code": "BOQ"}
 {"City Name": "Muang Ton Pheung", "Airport Name": "Bokeo Intl", "3-letter location code": "BOR"}
-{"City Name": "Boston", "Airport Name": "Metropolitan Area", "3-letter location code": "BOS"}
 {"City Name": "Boston", "Airport Name": "Edward L. Logan Intl", "3-letter location code": "BOS"}
+{"City Name": "Boston", "Airport Name": "Metropolitan Area", "3-letter location code": "BOS"}
 {"City Name": "Boset", "Airport Name": "Boset Airport", "3-letter location code": "BOT"}
 {"City Name": "Bourges", "Airport Name": "Bourges Airport", "3-letter location code": "BOU"}
 {"City Name": "Boang Island", "Airport Name": "Boang Island Airport", "3-letter location code": "BOV"}
@@ -999,8 +999,8 @@
 {"City Name": "Barra", "Airport Name": "Barra Airport", "3-letter location code": "BRR"}
 {"City Name": "Bristol", "Airport Name": "Bristol Airport", "3-letter location code": "BRS"}
 {"City Name": "Bathurst Island", "Airport Name": "Bathurst Island Airport", "3-letter location code": "BRT"}
-{"City Name": "Brussels", "Airport Name": "Brussels Airport", "3-letter location code": "BRU"}
 {"City Name": "Brussels", "Airport Name": "Metropolitan Area", "3-letter location code": "BRU"}
+{"City Name": "Brussels", "Airport Name": "Brussels Airport", "3-letter location code": "BRU"}
 {"City Name": "Bremerhaven", "Airport Name": "Bremerhaven Airport", "3-letter location code": "BRV"}
 {"City Name": "Utqiagvik Barrow", "Airport Name": "W.Post-W.Rogers Mem.", "3-letter location code": "BRW"}
 {"City Name": "Barahona", "Airport Name": "Maria Montez Intl", "3-letter location code": "BRX"}
@@ -1156,8 +1156,8 @@
 {"City Name": "Al Bayda", "Airport Name": "Al Bayda Airport", "3-letter location code": "BYD"}
 {"City Name": "Albert", "Airport Name": "Bray", "3-letter location code": "BYF"}
 {"City Name": "Buffalo", "Airport Name": "Johnson County", "3-letter location code": "BYG"}
-{"City Name": "Blytheville", "Airport Name": "Metropolitan Area", "3-letter location code": "BYH"}
 {"City Name": "Blytheville", "Airport Name": "Arkansas Intl", "3-letter location code": "BYH"}
+{"City Name": "Blytheville", "Airport Name": "Metropolitan Area", "3-letter location code": "BYH"}
 {"City Name": "Burley/Rupert", "Airport Name": "Burley Municipal", "3-letter location code": "BYI"}
 {"City Name": "Beja", "Airport Name": "Beja Intl.", "3-letter location code": "BYJ"}
 {"City Name": "Bouake", "Airport Name": "Bouake Airport", "3-letter location code": "BYK"}
@@ -1178,8 +1178,8 @@
 {"City Name": "Bazaruto Island", "Airport Name": "Bazaruto Island Airport", "3-letter location code": "BZB"}
 {"City Name": "Buzios", "Airport Name": "Umberto Modiano", "3-letter location code": "BZC"}
 {"City Name": "Balranald", "Airport Name": "Balranald Airport", "3-letter location code": "BZD"}
-{"City Name": "Belize City", "Airport Name": "Metropolitan Area", "3-letter location code": "BZE"}
 {"City Name": "Belize City", "Airport Name": "Philip S.W.Goldson Int", "3-letter location code": "BZE"}
+{"City Name": "Belize City", "Airport Name": "Metropolitan Area", "3-letter location code": "BZE"}
 {"City Name": "Redding", "Airport Name": "Benton Field", "3-letter location code": "BZF"}
 {"City Name": "Bydgoszcz", "Airport Name": "Ignacy Jan Paderewski", "3-letter location code": "BZG"}
 {"City Name": "Bumi Hills", "Airport Name": "Bumi Hills Airport", "3-letter location code": "BZH"}
@@ -1202,16 +1202,16 @@
 {"City Name": "Cabinda", "Airport Name": "Cabinda Airport", "3-letter location code": "CAB"}
 {"City Name": "Cascavel", "Airport Name": "A.Mendes da Silva", "3-letter location code": "CAC"}
 {"City Name": "Cadillac", "Airport Name": "Wexford County", "3-letter location code": "CAD"}
-{"City Name": "Columbia", "Airport Name": "Metropolitan Area", "3-letter location code": "CAE"}
 {"City Name": "Columbia", "Airport Name": "Metropolitan Apt", "3-letter location code": "CAE"}
+{"City Name": "Columbia", "Airport Name": "Metropolitan Area", "3-letter location code": "CAE"}
 {"City Name": "Carauari", "Airport Name": "Carauari Airport", "3-letter location code": "CAF"}
 {"City Name": "Cagliari", "Airport Name": "Elmas", "3-letter location code": "CAG"}
 {"City Name": "Ca Mau", "Airport Name": "Ca Mau Airport", "3-letter location code": "CAH"}
 {"City Name": "Cairo", "Airport Name": "Cairo Intl.", "3-letter location code": "CAI"}
 {"City Name": "Cairo", "Airport Name": "Metropolitan Area", "3-letter location code": "CAI"}
 {"City Name": "Canaima", "Airport Name": "Canaima Airport", "3-letter location code": "CAJ"}
-{"City Name": "Akron/Canton", "Airport Name": "Metropolitan Area", "3-letter location code": "CAK"}
 {"City Name": "Akron/Canton", "Airport Name": "Akron/Canton Reg. Airport", "3-letter location code": "CAK"}
+{"City Name": "Akron/Canton", "Airport Name": "Metropolitan Area", "3-letter location code": "CAK"}
 {"City Name": "Campbeltown", "Airport Name": "Campbeltown Airport", "3-letter location code": "CAL"}
 {"City Name": "Camiri", "Airport Name": "Camiri Airport", "3-letter location code": "CAM"}
 {"City Name": "Guangzhou", "Airport Name": "Baiyun Intl", "3-letter location code": "CAN"}
@@ -1294,8 +1294,8 @@
 {"City Name": "Childress", "Airport Name": "Childress Municipal", "3-letter location code": "CDS"}
 {"City Name": "Castellon de la Plana", "Airport Name": "Castellon de la Plana Airport", "3-letter location code": "CDT"}
 {"City Name": "Camden", "Airport Name": "Camden Airport", "3-letter location code": "CDU"}
-{"City Name": "Cordova", "Airport Name": "Metropolitan Area", "3-letter location code": "CDV"}
 {"City Name": "Cordova", "Airport Name": "Merle K (Mudhole)Smith", "3-letter location code": "CDV"}
+{"City Name": "Cordova", "Airport Name": "Metropolitan Area", "3-letter location code": "CDV"}
 {"City Name": "Caldwell", "Airport Name": "Essex County", "3-letter location code": "CDW"}
 {"City Name": "Mapun", "Airport Name": "Cagayan de Sulu", "3-letter location code": "CDY"}
 {"City Name": "Wichita", "Airport Name": "Cessna Aircraft Field", "3-letter location code": "CEA"}
@@ -1313,8 +1313,8 @@
 {"City Name": "Ciudad Obregon", "Airport Name": "Ciudad Obregon Intl.", "3-letter location code": "CEN"}
 {"City Name": "Waku-Kungo", "Airport Name": "Waku-Kungo Airport", "3-letter location code": "CEO"}
 {"City Name": "Concepcion", "Airport Name": "Concepcion Airport", "3-letter location code": "CEP"}
-{"City Name": "Cannes", "Airport Name": "Mandelieu", "3-letter location code": "CEQ"}
 {"City Name": "Cannes", "Airport Name": "Metropolitan Area", "3-letter location code": "CEQ"}
+{"City Name": "Cannes", "Airport Name": "Mandelieu", "3-letter location code": "CEQ"}
 {"City Name": "Cherbourg", "Airport Name": "Maupertus", "3-letter location code": "CER"}
 {"City Name": "Cessnock", "Airport Name": "Cessnock Airport", "3-letter location code": "CES"}
 {"City Name": "Cholet", "Airport Name": "Le Pontreau", "3-letter location code": "CET"}
@@ -1477,8 +1477,8 @@
 {"City Name": "Calvi", "Airport Name": "Ste Catherine", "3-letter location code": "CLY"}
 {"City Name": "Calabozo", "Airport Name": "Calabozo Airport", "3-letter location code": "CLZ"}
 {"City Name": "Cunnamulla", "Airport Name": "Cunnamulla Airport", "3-letter location code": "CMA"}
-{"City Name": "Colombo", "Airport Name": "Bandaranaike Intl", "3-letter location code": "CMB"}
 {"City Name": "Colombo", "Airport Name": "Metropolitan Area", "3-letter location code": "CMB"}
+{"City Name": "Colombo", "Airport Name": "Bandaranaike Intl", "3-letter location code": "CMB"}
 {"City Name": "Camocim", "Airport Name": "Camocim Airport", "3-letter location code": "CMC"}
 {"City Name": "Cootamundra", "Airport Name": "Cootamundra Airport", "3-letter location code": "CMD"}
 {"City Name": "Ciudad del Carmen", "Airport Name": "Ciudad del Carmen Intl.", "3-letter location code": "CME"}
@@ -1599,8 +1599,8 @@
 {"City Name": "Brussels", "Airport Name": "Brussels S. Charleroi", "3-letter location code": "CRL"}
 {"City Name": "Catarman", "Airport Name": "National", "3-letter location code": "CRM"}
 {"City Name": "Corcoran", "Airport Name": "Corcoran Airport", "3-letter location code": "CRO"}
-{"City Name": "Corpus Christi", "Airport Name": "Corpus Christi Intl.", "3-letter location code": "CRP"}
 {"City Name": "Corpus Christi", "Airport Name": "Metropolitan Area", "3-letter location code": "CRP"}
+{"City Name": "Corpus Christi", "Airport Name": "Corpus Christi Intl.", "3-letter location code": "CRP"}
 {"City Name": "Caravelas", "Airport Name": "Caravelas Airport", "3-letter location code": "CRQ"}
 {"City Name": "Ceres", "Airport Name": "Ceres Airport", "3-letter location code": "CRR"}
 {"City Name": "Corsicana", "Airport Name": "C. David Campbell Fld", "3-letter location code": "CRS"}
@@ -1622,8 +1622,8 @@
 {"City Name": "Solovetsky", "Airport Name": "Solovki", "3-letter location code": "CSH"}
 {"City Name": "Casino", "Airport Name": "Casino Airport", "3-letter location code": "CSI"}
 {"City Name": "Cap Skiring", "Airport Name": "Cap Skiring Airport", "3-letter location code": "CSK"}
-{"City Name": "Clinton", "Airport Name": "Sherman", "3-letter location code": "CSM"}
 {"City Name": "Clinton", "Airport Name": "Metropolitan Area", "3-letter location code": "CSM"}
+{"City Name": "Clinton", "Airport Name": "Sherman", "3-letter location code": "CSM"}
 {"City Name": "Carson City", "Airport Name": "Carson", "3-letter location code": "CSN"}
 {"City Name": "Magdeburg", "Airport Name": "Cochstedt", "3-letter location code": "CSO"}
 {"City Name": "Creston", "Airport Name": "Creston Municipal", "3-letter location code": "CSQ"}
@@ -1697,8 +1697,8 @@
 {"City Name": "Cuernavaca", "Airport Name": "Mariano Matamoros", "3-letter location code": "CVJ"}
 {"City Name": "Cape Vogel", "Airport Name": "Cape Vogel Airport", "3-letter location code": "CVL"}
 {"City Name": "Ciudad Victoria", "Airport Name": "Pedro J. Mendez Intl", "3-letter location code": "CVM"}
-{"City Name": "Clovis", "Airport Name": "Clovis Municipal", "3-letter location code": "CVN"}
 {"City Name": "Clovis", "Airport Name": "Metropolitan Area", "3-letter location code": "CVN"}
+{"City Name": "Clovis", "Airport Name": "Clovis Municipal", "3-letter location code": "CVN"}
 {"City Name": "Corvallis/Albany", "Airport Name": "Corvallis Municipal", "3-letter location code": "CVO"}
 {"City Name": "Carnarvon", "Airport Name": "Carnarvon Airport", "3-letter location code": "CVQ"}
 {"City Name": "Clovis", "Airport Name": "Cannon AFB", "3-letter location code": "CVS"}
@@ -1744,8 +1744,8 @@
 {"City Name": "Cayo Largo del Sur", "Airport Name": "Vilo Acuna Intl", "3-letter location code": "CYO"}
 {"City Name": "Calbayog", "Airport Name": "Calbayog Airport", "3-letter location code": "CYP"}
 {"City Name": "Colonia del Sacramento", "Airport Name": "Laguna de los Patos", "3-letter location code": "CYR"}
-{"City Name": "Cheyenne", "Airport Name": "Metropolitan Area", "3-letter location code": "CYS"}
 {"City Name": "Cheyenne", "Airport Name": "Cheyenne Reg. Airport", "3-letter location code": "CYS"}
+{"City Name": "Cheyenne", "Airport Name": "Metropolitan Area", "3-letter location code": "CYS"}
 {"City Name": "Yakataga", "Airport Name": "Yakataga Airport", "3-letter location code": "CYT"}
 {"City Name": "Cuyo", "Airport Name": "Cuyo Airport", "3-letter location code": "CYU"}
 {"City Name": "Celaya", "Airport Name": "Capt. Rogelio Castillo", "3-letter location code": "CYW"}
@@ -1974,8 +1974,8 @@
 {"City Name": "Doini Island", "Airport Name": "Doini Island Airport", "3-letter location code": "DOI"}
 {"City Name": "Donetsk", "Airport Name": "Donetsk Intl.", "3-letter location code": "DOK"}
 {"City Name": "Deauville", "Airport Name": "St Gatien", "3-letter location code": "DOL"}
-{"City Name": "Dominica", "Airport Name": "Metropolitan Area", "3-letter location code": "DOM"}
 {"City Name": "Dominica", "Airport Name": "Melville Hall", "3-letter location code": "DOM"}
+{"City Name": "Dominica", "Airport Name": "Metropolitan Area", "3-letter location code": "DOM"}
 {"City Name": "Dos Lagunas", "Airport Name": "Dos Lagunas Airport", "3-letter location code": "DON"}
 {"City Name": "Dorobisoro", "Airport Name": "Dorobisoro Airport", "3-letter location code": "DOO"}
 {"City Name": "Dolpa", "Airport Name": "Dolpa Airport", "3-letter location code": "DOP"}
@@ -2009,8 +2009,8 @@
 {"City Name": "Drietabbetje", "Airport Name": "Drietabbetje Airport", "3-letter location code": "DRJ"}
 {"City Name": "Drake Bay", "Airport Name": "Drake Bay Airport", "3-letter location code": "DRK"}
 {"City Name": "Dirranbandi", "Airport Name": "Dirranbandi Airport", "3-letter location code": "DRN"}
-{"City Name": "Durango", "Airport Name": "La Plata County", "3-letter location code": "DRO"}
 {"City Name": "Durango", "Airport Name": "Metropolitan Area", "3-letter location code": "DRO"}
+{"City Name": "Durango", "Airport Name": "La Plata County", "3-letter location code": "DRO"}
 {"City Name": "Daraga", "Airport Name": "Bicol", "3-letter location code": "DRP"}
 {"City Name": "Durrie", "Airport Name": "Durrie Airport", "3-letter location code": "DRR"}
 {"City Name": "Dresden", "Airport Name": "Dresden Airport", "3-letter location code": "DRS"}
@@ -2060,8 +2060,8 @@
 {"City Name": "Mtubatuba", "Airport Name": "Dukuduku", "3-letter location code": "DUK"}
 {"City Name": "Dumai", "Airport Name": "Pinang Kampai", "3-letter location code": "DUM"}
 {"City Name": "Duncan", "Airport Name": "Duncan Airport", "3-letter location code": "DUQ"}
-{"City Name": "Durban", "Airport Name": "Metropolitan Area", "3-letter location code": "DUR"}
 {"City Name": "Durban", "Airport Name": "King Shaka Intl", "3-letter location code": "DUR"}
+{"City Name": "Durban", "Airport Name": "Metropolitan Area", "3-letter location code": "DUR"}
 {"City Name": "Duesseldorf", "Airport Name": "Metropolitan Area", "3-letter location code": "DUS"}
 {"City Name": "Duesseldorf", "Airport Name": "Duesseldorf Airport", "3-letter location code": "DUS"}
 {"City Name": "Dutch Harbor", "Airport Name": "Driftwood Bay AFS", "3-letter location code": "DUT"}
@@ -2361,8 +2361,8 @@
 {"City Name": "Yopal", "Airport Name": "El Alcaravan", "3-letter location code": "EYP"}
 {"City Name": "Yerington", "Airport Name": "Yerington Municipal", "3-letter location code": "EYR"}
 {"City Name": "Eliye Springs", "Airport Name": "Eliye Springs Airport", "3-letter location code": "EYS"}
-{"City Name": "Key West", "Airport Name": "Metropolitan Area", "3-letter location code": "EYW"}
 {"City Name": "Key West", "Airport Name": "Key West Intl.", "3-letter location code": "EYW"}
+{"City Name": "Key West", "Airport Name": "Metropolitan Area", "3-letter location code": "EYW"}
 {"City Name": "Buenos Aires", "Airport Name": "Ministro Pistarini", "3-letter location code": "EZE"}
 {"City Name": "Elazig", "Airport Name": "Elazig Airport", "3-letter location code": "EZS"}
 {"City Name": "Berezovo", "Airport Name": "Berezovo Airport", "3-letter location code": "EZV"}
@@ -2439,8 +2439,8 @@
 {"City Name": "Fishers Island", "Airport Name": "Elizabeth Field", "3-letter location code": "FID"}
 {"City Name": "Fair Isle", "Airport Name": "Fair Isle Airport", "3-letter location code": "FIE"}
 {"City Name": "Fria", "Airport Name": "Katourou", "3-letter location code": "FIG"}
-{"City Name": "Kinshasa", "Airport Name": "Metropolitan Area", "3-letter location code": "FIH"}
 {"City Name": "Kinshasa", "Airport Name": "N'djili Intl", "3-letter location code": "FIH"}
+{"City Name": "Kinshasa", "Airport Name": "Metropolitan Area", "3-letter location code": "FIH"}
 {"City Name": "Finke", "Airport Name": "Finke Airport", "3-letter location code": "FIK"}
 {"City Name": "Fillmore", "Airport Name": "Fillmore Municipal", "3-letter location code": "FIL"}
 {"City Name": "Finschhafen", "Airport Name": "Finschhafen Airport", "3-letter location code": "FIN"}
@@ -2484,8 +2484,8 @@
 {"City Name": "Fort Madison", "Airport Name": "Fort Madison Municipal", "3-letter location code": "FMS"}
 {"City Name": "Faresmathoda", "Airport Name": "Faresmathoda Airport", "3-letter location code": "FMT"}
 {"City Name": "Florence", "Airport Name": "Florence Municipal", "3-letter location code": "FMU"}
-{"City Name": "Fort Myers", "Airport Name": "Metropolitan Area", "3-letter location code": "FMY"}
 {"City Name": "Fort Myers", "Airport Name": "Page Field", "3-letter location code": "FMY"}
+{"City Name": "Fort Myers", "Airport Name": "Metropolitan Area", "3-letter location code": "FMY"}
 {"City Name": "Freetown", "Airport Name": "Metropolitan Area", "3-letter location code": "FNA"}
 {"City Name": "Freetown", "Airport Name": "Lungi International", "3-letter location code": "FNA"}
 {"City Name": "Neubrandenburg", "Airport Name": "Trollenhagen", "3-letter location code": "FNB"}
@@ -2751,8 +2751,8 @@
 {"City Name": "Gulkana", "Airport Name": "Gulkana Airport", "3-letter location code": "GKN"}
 {"City Name": "Kongo Boumba", "Airport Name": "Kongo Boumba Airport", "3-letter location code": "GKO"}
 {"City Name": "Sevierville", "Airport Name": "Gatlinburg", "3-letter location code": "GKT"}
-{"City Name": "Glasgow", "Airport Name": "Glasgow Intl.", "3-letter location code": "GLA"}
 {"City Name": "Glasgow", "Airport Name": "Metropolitan Area", "3-letter location code": "GLA"}
+{"City Name": "Glasgow", "Airport Name": "Glasgow Intl.", "3-letter location code": "GLA"}
 {"City Name": "Globe", "Airport Name": "San Carlos Apache", "3-letter location code": "GLB"}
 {"City Name": "Geladi", "Airport Name": "Geladi Airport", "3-letter location code": "GLC"}
 {"City Name": "Goodland", "Airport Name": "Renner Field", "3-letter location code": "GLD"}
@@ -2881,8 +2881,8 @@
 {"City Name": "Gheshm Island", "Airport Name": "Dayrestan", "3-letter location code": "GSM"}
 {"City Name": "Mount Gunson", "Airport Name": "Mount Gunson Taltheilei Narrows", "3-letter location code": "GSN"}
 {"City Name": "Greensboro/High Point", "Airport Name": "Piedmont Triad Intl", "3-letter location code": "GSO"}
-{"City Name": "Greenville/Spartanburg", "Airport Name": "Metropolitan Area", "3-letter location code": "GSP"}
 {"City Name": "Greenville/Spartanburg", "Airport Name": "Greenville/Spartanburg Intl.", "3-letter location code": "GSP"}
+{"City Name": "Greenville/Spartanburg", "Airport Name": "Metropolitan Area", "3-letter location code": "GSP"}
 {"City Name": "Shark el-Owainat", "Airport Name": "Shark el-Owainat Intl.", "3-letter location code": "GSQ"}
 {"City Name": "Gardo", "Airport Name": "Gardo Airport", "3-letter location code": "GSR"}
 {"City Name": "Sabie", "Airport Name": "Sabi Sabi", "3-letter location code": "GSS"}
@@ -2996,8 +2996,8 @@
 {"City Name": "Hanoi", "Airport Name": "Noi Bai Intl", "3-letter location code": "HAN"}
 {"City Name": "Hamilton", "Airport Name": "Butler County Regional", "3-letter location code": "HAO"}
 {"City Name": "Hanimaadhoo Island", "Airport Name": "Hanimaadhoo Island Airport", "3-letter location code": "HAQ"}
-{"City Name": "Harrisburg", "Airport Name": "Metropolitan Area", "3-letter location code": "HAR"}
 {"City Name": "Harrisburg", "Airport Name": "Capital City", "3-letter location code": "HAR"}
+{"City Name": "Harrisburg", "Airport Name": "Metropolitan Area", "3-letter location code": "HAR"}
 {"City Name": "Hail", "Airport Name": "Hail Airport", "3-letter location code": "HAS"}
 {"City Name": "Heathlands", "Airport Name": "Heathlands Airport", "3-letter location code": "HAT"}
 {"City Name": "Haugesund", "Airport Name": "Karmoy", "3-letter location code": "HAU"}
@@ -3046,8 +3046,8 @@
 {"City Name": "Heho", "Airport Name": "Heho Airport", "3-letter location code": "HEH"}
 {"City Name": "Heide/Buesum", "Airport Name": "Heide/Buesum Airport", "3-letter location code": "HEI"}
 {"City Name": "Heihe", "Airport Name": "Heihe Airport", "3-letter location code": "HEK"}
-{"City Name": "Helsinki", "Airport Name": "Helsinki-Vantaa", "3-letter location code": "HEL"}
 {"City Name": "Helsinki", "Airport Name": "Metropolitan Area", "3-letter location code": "HEL"}
+{"City Name": "Helsinki", "Airport Name": "Helsinki-Vantaa", "3-letter location code": "HEL"}
 {"City Name": "Helsinki", "Airport Name": "Helsinki-Malmi", "3-letter location code": "HEM"}
 {"City Name": "Haelogo", "Airport Name": "Haelogo Airport", "3-letter location code": "HEO"}
 {"City Name": "Irakleion", "Airport Name": "Nikos Kazantzakis", "3-letter location code": "HER"}
@@ -3178,8 +3178,8 @@
 {"City Name": "Horta", "Airport Name": "Horta Airport", "3-letter location code": "HOR"}
 {"City Name": "Chos Malal", "Airport Name": "Chos Malal Airport", "3-letter location code": "HOS"}
 {"City Name": "Hot Springs", "Airport Name": "Memorial Field", "3-letter location code": "HOT"}
-{"City Name": "Houston", "Airport Name": "William P. Hobby", "3-letter location code": "HOU"}
 {"City Name": "Houston", "Airport Name": "Metropolitan Area", "3-letter location code": "HOU"}
+{"City Name": "Houston", "Airport Name": "William P. Hobby", "3-letter location code": "HOU"}
 {"City Name": "Orsta/Volda", "Airport Name": "Hovden", "3-letter location code": "HOV"}
 {"City Name": "Homalin", "Airport Name": "Homalin Airport", "3-letter location code": "HOX"}
 {"City Name": "Hoy", "Airport Name": "Longhope", "3-letter location code": "HOY"}
@@ -3228,8 +3228,8 @@
 {"City Name": "Hirasar", "Airport Name": "Rajkot International Airport", "3-letter location code": "HSR"}
 {"City Name": "Hisar", "Airport Name": "Hisar Airport", "3-letter location code": "HSS"}
 {"City Name": "Homestead", "Airport Name": "ARB", "3-letter location code": "HST"}
-{"City Name": "Huntsville", "Airport Name": "Metropolitan Area", "3-letter location code": "HSV"}
 {"City Name": "Huntsville", "Airport Name": "Intl-Carl T.Jones Fld", "3-letter location code": "HSV"}
+{"City Name": "Huntsville", "Airport Name": "Metropolitan Area", "3-letter location code": "HSV"}
 {"City Name": "Hsinchu", "Airport Name": "Hsinchu Airport", "3-letter location code": "HSZ"}
 {"City Name": "Chita", "Airport Name": "Kadala", "3-letter location code": "HTA"}
 {"City Name": "Khatanga", "Airport Name": "Khatanga Airport", "3-letter location code": "HTG"}
@@ -3479,8 +3479,8 @@
 {"City Name": "Ipiranga", "Airport Name": "Ipiranga Airport", "3-letter location code": "IPG"}
 {"City Name": "Ipoh", "Airport Name": "Sultan Azlan Shah", "3-letter location code": "IPH"}
 {"City Name": "Ipiales", "Airport Name": "San Luis", "3-letter location code": "IPI"}
-{"City Name": "Imperial/El Centro", "Airport Name": "Metropolitan Area", "3-letter location code": "IPL"}
 {"City Name": "Imperial/El Centro", "Airport Name": "Imperial County", "3-letter location code": "IPL"}
+{"City Name": "Imperial/El Centro", "Airport Name": "Metropolitan Area", "3-letter location code": "IPL"}
 {"City Name": "Ipatinga", "Airport Name": "Usiminas", "3-letter location code": "IPN"}
 {"City Name": "Williamsport", "Airport Name": "Williamsport Reg. Airport", "3-letter location code": "IPT"}
 {"City Name": "Ipiau", "Airport Name": "Ipiau Airport", "3-letter location code": "IPU"}
@@ -3599,8 +3599,8 @@
 {"City Name": "Jacmel", "Airport Name": "Jacmel Airport", "3-letter location code": "JAK"}
 {"City Name": "Jalapa", "Airport Name": "El Lencero", "3-letter location code": "JAL"}
 {"City Name": "Jambol", "Airport Name": "Bezmer", "3-letter location code": "JAM"}
-{"City Name": "Jackson", "Airport Name": "Medgar W. Evers Intl", "3-letter location code": "JAN"}
 {"City Name": "Jackson", "Airport Name": "Metropolitan Area", "3-letter location code": "JAN"}
+{"City Name": "Jackson", "Airport Name": "Medgar W. Evers Intl", "3-letter location code": "JAN"}
 {"City Name": "Puntarenas", "Airport Name": "Chacarita", "3-letter location code": "JAP"}
 {"City Name": "Jacquinot Bay", "Airport Name": "Jacquinot Bay Airport", "3-letter location code": "JAQ"}
 {"City Name": "Jahrom", "Airport Name": "Jahrom Airport", "3-letter location code": "JAR"}
@@ -3837,8 +3837,8 @@
 {"City Name": "Koolan Island", "Airport Name": "Koolan Central", "3-letter location code": "KCI"}
 {"City Name": "Komaio", "Airport Name": "Komaio Airport", "3-letter location code": "KCJ"}
 {"City Name": "Kirensk", "Airport Name": "Kirensk Airport", "3-letter location code": "KCK"}
-{"City Name": "Chignik", "Airport Name": "Chignik Lagoon", "3-letter location code": "KCL"}
 {"City Name": "Chignik", "Airport Name": "Metropolitan Area", "3-letter location code": "KCL"}
+{"City Name": "Chignik", "Airport Name": "Chignik Lagoon", "3-letter location code": "KCL"}
 {"City Name": "Kahramanmaras", "Airport Name": "Kahramanmaras Airport", "3-letter location code": "KCM"}
 {"City Name": "Chernofski Harbor", "Airport Name": "Sea Plane Base", "3-letter location code": "KCN"}
 {"City Name": "Kocaeli", "Airport Name": "Cengiz Topel", "3-letter location code": "KCO"}
@@ -3965,8 +3965,8 @@
 {"City Name": "Kirkuk", "Airport Name": "KIRKUK INTL.", "3-letter location code": "KIK"}
 {"City Name": "Kilwa", "Airport Name": "Kilwa Airport", "3-letter location code": "KIL"}
 {"City Name": "Kimberley", "Airport Name": "Kimberley Airport", "3-letter location code": "KIM"}
-{"City Name": "Kingston", "Airport Name": "Norman Manley Intl", "3-letter location code": "KIN"}
 {"City Name": "Kingston", "Airport Name": "Metropolitan Area", "3-letter location code": "KIN"}
+{"City Name": "Kingston", "Airport Name": "Norman Manley Intl", "3-letter location code": "KIN"}
 {"City Name": "Kili Island", "Airport Name": "Kili Island Airport", "3-letter location code": "KIO"}
 {"City Name": "Wichita Falls", "Airport Name": "Kickapoo Downtown Apt", "3-letter location code": "KIP"}
 {"City Name": "Kira", "Airport Name": "Kira Airport", "3-letter location code": "KIQ"}
@@ -4195,8 +4195,8 @@
 {"City Name": "Kunua", "Airport Name": "Kunua Airport", "3-letter location code": "KTK"}
 {"City Name": "Kitale", "Airport Name": "Kitale Airport", "3-letter location code": "KTL"}
 {"City Name": "Kathmandu", "Airport Name": "Tribhuvan Intl", "3-letter location code": "KTM"}
-{"City Name": "Ketchikan", "Airport Name": "Ketchikan Intl.", "3-letter location code": "KTN"}
 {"City Name": "Ketchikan", "Airport Name": "Metropolitan Area", "3-letter location code": "KTN"}
+{"City Name": "Ketchikan", "Airport Name": "Ketchikan Intl.", "3-letter location code": "KTN"}
 {"City Name": "Kato", "Airport Name": "Kato Airport", "3-letter location code": "KTO"}
 {"City Name": "Kingston", "Airport Name": "Tinson Pen", "3-letter location code": "KTP"}
 {"City Name": "Kitee", "Airport Name": "Kitee Airport", "3-letter location code": "KTQ"}
@@ -4704,8 +4704,8 @@
 {"City Name": "Ludhiana", "Airport Name": "Ludhiana Airport", "3-letter location code": "LUH"}
 {"City Name": "La Union", "Airport Name": "La Union Airport", "3-letter location code": "LUI"}
 {"City Name": "Cincinnati", "Airport Name": "Municipal (Lunken Fld)", "3-letter location code": "LUK"}
-{"City Name": "Hattiesburg/Laurel", "Airport Name": "Metropolitan Area", "3-letter location code": "LUL"}
 {"City Name": "Hattiesburg/Laurel", "Airport Name": "Hesler-Noble Field", "3-letter location code": "LUL"}
+{"City Name": "Hattiesburg/Laurel", "Airport Name": "Metropolitan Area", "3-letter location code": "LUL"}
 {"City Name": "Mangshi", "Airport Name": "Dehong Mangshi", "3-letter location code": "LUM"}
 {"City Name": "Lusaka", "Airport Name": "Lusaka Intl.", "3-letter location code": "LUN"}
 {"City Name": "Luena", "Airport Name": "Luena Airport", "3-letter location code": "LUO"}
@@ -4784,8 +4784,8 @@
 {"City Name": "Chennai", "Airport Name": "International", "3-letter location code": "MAA"}
 {"City Name": "Maraba", "Airport Name": "Joao Correa da Rocha", "3-letter location code": "MAB"}
 {"City Name": "Macon", "Airport Name": "Downtown Apt", "3-letter location code": "MAC"}
-{"City Name": "Madrid", "Airport Name": "Adolfo Suarez-Barajas", "3-letter location code": "MAD"}
 {"City Name": "Madrid", "Airport Name": "Metropolitan Area", "3-letter location code": "MAD"}
+{"City Name": "Madrid", "Airport Name": "Adolfo Suarez-Barajas", "3-letter location code": "MAD"}
 {"City Name": "Madera", "Airport Name": "Madera Municipal", "3-letter location code": "MAE"}
 {"City Name": "Midland", "Airport Name": "Metropolitan Area", "3-letter location code": "MAF"}
 {"City Name": "Midland", "Airport Name": "Midland Intl.", "3-letter location code": "MAF"}
@@ -4848,8 +4848,8 @@
 {"City Name": "Maicao", "Airport Name": "Jorge Isaacs", "3-letter location code": "MCJ"}
 {"City Name": "McCook", "Airport Name": "Ben Nelson Regional", "3-letter location code": "MCK"}
 {"City Name": "McKinley", "Airport Name": "National Park", "3-letter location code": "MCL"}
-{"City Name": "Macon", "Airport Name": "Middle Georgia Rgnl", "3-letter location code": "MCN"}
 {"City Name": "Macon", "Airport Name": "Metropolitan Area", "3-letter location code": "MCN"}
+{"City Name": "Macon", "Airport Name": "Middle Georgia Rgnl", "3-letter location code": "MCN"}
 {"City Name": "Orlando", "Airport Name": "Orlando Intl.", "3-letter location code": "MCO"}
 {"City Name": "Macapa", "Airport Name": "Alberto Alcolumbre Int", "3-letter location code": "MCP"}
 {"City Name": "Miskolc", "Airport Name": "Miskolc Airport", "3-letter location code": "MCQ"}
@@ -4864,8 +4864,8 @@
 {"City Name": "Melinda", "Airport Name": "Melinda Airport", "3-letter location code": "MDB"}
 {"City Name": "Manado", "Airport Name": "Sam Ratulangi", "3-letter location code": "MDC"}
 {"City Name": "Midland", "Airport Name": "Airpark", "3-letter location code": "MDD"}
-{"City Name": "Medellin", "Airport Name": "Jose Maria Cordova Int", "3-letter location code": "MDE"}
 {"City Name": "Medellin", "Airport Name": "Metropolitan Area", "3-letter location code": "MDE"}
+{"City Name": "Medellin", "Airport Name": "Jose Maria Cordova Int", "3-letter location code": "MDE"}
 {"City Name": "Medford", "Airport Name": "Taylor County", "3-letter location code": "MDF"}
 {"City Name": "Mudanjiang", "Airport Name": "Hailang", "3-letter location code": "MDG"}
 {"City Name": "Carbondale/Murphysboro", "Airport Name": "Southern Illinois", "3-letter location code": "MDH"}
@@ -4911,8 +4911,8 @@
 {"City Name": "Monte Dourado", "Airport Name": "Serra do Areao", "3-letter location code": "MEU"}
 {"City Name": "Minden", "Airport Name": "Minden-Tahoe", "3-letter location code": "MEV"}
 {"City Name": "Mweka", "Airport Name": "Mweka Airport", "3-letter location code": "MEW"}
-{"City Name": "Mexico City", "Airport Name": "Benito Juarez Intl", "3-letter location code": "MEX"}
 {"City Name": "Mexico City", "Airport Name": "Metropolitan Area", "3-letter location code": "MEX"}
+{"City Name": "Mexico City", "Airport Name": "Benito Juarez Intl", "3-letter location code": "MEX"}
 {"City Name": "Meghauli", "Airport Name": "Meghauli Airport", "3-letter location code": "MEY"}
 {"City Name": "Messina", "Airport Name": "Messina Airport", "3-letter location code": "MEZ"}
 {"City Name": "Mafia Island", "Airport Name": "Mafia Island Airport", "3-letter location code": "MFA"}
@@ -5131,8 +5131,8 @@
 {"City Name": "Montserrat", "Airport Name": "John A. Osborne", "3-letter location code": "MNI"}
 {"City Name": "Mananjary", "Airport Name": "Mananjary Airport", "3-letter location code": "MNJ"}
 {"City Name": "Maiana", "Airport Name": "Maiana Airport", "3-letter location code": "MNK"}
-{"City Name": "Manila", "Airport Name": "Ninoy Aquino Intl", "3-letter location code": "MNL"}
 {"City Name": "Manila", "Airport Name": "Metropolitan Area", "3-letter location code": "MNL"}
+{"City Name": "Manila", "Airport Name": "Ninoy Aquino Intl", "3-letter location code": "MNL"}
 {"City Name": "Menominee", "Airport Name": "Menominee-Marinette", "3-letter location code": "MNM"}
 {"City Name": "Marion", "Airport Name": "Marion Municipal", "3-letter location code": "MNN"}
 {"City Name": "Manono", "Airport Name": "Manono Airport", "3-letter location code": "MNO"}
@@ -5248,8 +5248,8 @@
 {"City Name": "Mineralnye Vody", "Airport Name": "Mineralnye Vody Airport", "3-letter location code": "MRV"}
 {"City Name": "Maribo", "Airport Name": "Lolland Falster", "3-letter location code": "MRW"}
 {"City Name": "Bandar Mahshahr", "Airport Name": "Mahshahr", "3-letter location code": "MRX"}
-{"City Name": "Monterey/Carmel", "Airport Name": "Metropolitan Area", "3-letter location code": "MRY"}
 {"City Name": "Monterey/Carmel", "Airport Name": "Monterey Regional", "3-letter location code": "MRY"}
+{"City Name": "Monterey/Carmel", "Airport Name": "Metropolitan Area", "3-letter location code": "MRY"}
 {"City Name": "Moree", "Airport Name": "Moree Airport", "3-letter location code": "MRZ"}
 {"City Name": "Muskrat Dam", "Airport Name": "Muskrat Dam Airport", "3-letter location code": "MSA"}
 {"City Name": "Phoenix", "Airport Name": "Falcon Field", "3-letter location code": "MSC"}
@@ -5275,8 +5275,8 @@
 {"City Name": "Monticello", "Airport Name": "Sullivan County Intl", "3-letter location code": "MSV"}
 {"City Name": "Massawa", "Airport Name": "Massawa Intl.", "3-letter location code": "MSW"}
 {"City Name": "Mossendjo", "Airport Name": "Mossendjo Airport", "3-letter location code": "MSX"}
-{"City Name": "New Orleans", "Airport Name": "Metropolitan Area", "3-letter location code": "MSY"}
 {"City Name": "New Orleans", "Airport Name": "Louis Armstrong Intl", "3-letter location code": "MSY"}
+{"City Name": "New Orleans", "Airport Name": "Metropolitan Area", "3-letter location code": "MSY"}
 {"City Name": "Namibe", "Airport Name": "Yuri Gagarin", "3-letter location code": "MSZ"}
 {"City Name": "Matamata", "Airport Name": "Matamata Airport", "3-letter location code": "MTA"}
 {"City Name": "Montelibano", "Airport Name": "Montelibano Airport", "3-letter location code": "MTB"}
@@ -5427,8 +5427,8 @@
 {"City Name": "Myrtle Beach", "Airport Name": "Metropolitan Area", "3-letter location code": "MYR"}
 {"City Name": "Myitkyina", "Airport Name": "Myitkyina Airport", "3-letter location code": "MYT"}
 {"City Name": "Mekoryuk", "Airport Name": "Mekoryuk Airport", "3-letter location code": "MYU"}
-{"City Name": "Marysville", "Airport Name": "Metropolitan Area", "3-letter location code": "MYV"}
 {"City Name": "Marysville", "Airport Name": "Yuba County", "3-letter location code": "MYV"}
+{"City Name": "Marysville", "Airport Name": "Metropolitan Area", "3-letter location code": "MYV"}
 {"City Name": "Mtwara", "Airport Name": "Mtwara Airport", "3-letter location code": "MYW"}
 {"City Name": "Menyamya", "Airport Name": "Menyamya Airport", "3-letter location code": "MYX"}
 {"City Name": "Miri", "Airport Name": "Miri Airport", "3-letter location code": "MYY"}
@@ -5492,8 +5492,8 @@
 {"City Name": "Luanda", "Airport Name": "Dr Antonio Agostinho Neto", "3-letter location code": "NBJ"}
 {"City Name": "San Blas", "Airport Name": "Wannukandi", "3-letter location code": "NBL"}
 {"City Name": "Annobon", "Airport Name": "Annobon Airport", "3-letter location code": "NBN"}
-{"City Name": "Nairobi", "Airport Name": "Metropolitan Area", "3-letter location code": "NBO"}
 {"City Name": "Nairobi", "Airport Name": "Jomo Kenyatta Intl", "3-letter location code": "NBO"}
+{"City Name": "Nairobi", "Airport Name": "Metropolitan Area", "3-letter location code": "NBO"}
 {"City Name": "Baishan", "Airport Name": "Changbaishan", "3-letter location code": "NBS"}
 {"City Name": "Guantanamo", "Airport Name": "Guantanamo Bay NS", "3-letter location code": "NBW"}
 {"City Name": "Nabire", "Airport Name": "Nabire Airport", "3-letter location code": "NBX"}
@@ -5686,8 +5686,8 @@
 {"City Name": "Kingsville", "Airport Name": "NAS", "3-letter location code": "NQI"}
 {"City Name": "Niquelandia", "Airport Name": "Niquelandia Airport", "3-letter location code": "NQL"}
 {"City Name": "Neuquen", "Airport Name": "Presidente Peron", "3-letter location code": "NQN"}
-{"City Name": "Nottingham", "Airport Name": "Nottingham Airport", "3-letter location code": "NQT"}
 {"City Name": "Nottingham", "Airport Name": "Metropolitan Area", "3-letter location code": "NQT"}
+{"City Name": "Nottingham", "Airport Name": "Nottingham Airport", "3-letter location code": "NQT"}
 {"City Name": "Nuqui", "Airport Name": "Reyes Murillo", "3-letter location code": "NQU"}
 {"City Name": "Key West", "Airport Name": "NAS (Boca Chica Field)", "3-letter location code": "NQX"}
 {"City Name": "Newquay", "Airport Name": "Cornwall", "3-letter location code": "NQY"}
@@ -5863,8 +5863,8 @@
 {"City Name": "Ofu Island", "Airport Name": "Ofu Island Airport", "3-letter location code": "OFU"}
 {"City Name": "Ogallala", "Airport Name": "Searle Field", "3-letter location code": "OGA"}
 {"City Name": "Orangeburg", "Airport Name": "Orangeburg Municipal", "3-letter location code": "OGB"}
-{"City Name": "Ogden", "Airport Name": "Hinckley", "3-letter location code": "OGD"}
 {"City Name": "Ogden", "Airport Name": "Metropolitan Area", "3-letter location code": "OGD"}
+{"City Name": "Ogden", "Airport Name": "Hinckley", "3-letter location code": "OGD"}
 {"City Name": "Ogeramnang", "Airport Name": "Ogeramnang Airport", "3-letter location code": "OGE"}
 {"City Name": "Kahului", "Airport Name": "Kahului Airport", "3-letter location code": "OGG"}
 {"City Name": "Georgetown", "Airport Name": "Ogle", "3-letter location code": "OGL"}
@@ -5894,11 +5894,11 @@
 {"City Name": "Oita", "Airport Name": "Oita Airport", "3-letter location code": "OIT"}
 {"City Name": "Kansas City", "Airport Name": "Johnson Co Executive", "3-letter location code": "OJC"}
 {"City Name": "Tojo Una Una", "Airport Name": "Tanjung Api", "3-letter location code": "OJU"}
-{"City Name": "Okinawa", "Airport Name": "Metropolitan Area", "3-letter location code": "OKA"}
 {"City Name": "Okinawa", "Airport Name": "Naha", "3-letter location code": "OKA"}
+{"City Name": "Okinawa", "Airport Name": "Metropolitan Area", "3-letter location code": "OKA"}
 {"City Name": "Fraser Island", "Airport Name": "Orchid Beach", "3-letter location code": "OKB"}
-{"City Name": "Oklahoma City", "Airport Name": "Will Rogers World", "3-letter location code": "OKC"}
 {"City Name": "Oklahoma City", "Airport Name": "Metropolitan Area", "3-letter location code": "OKC"}
+{"City Name": "Oklahoma City", "Airport Name": "Will Rogers World", "3-letter location code": "OKC"}
 {"City Name": "Sapporo", "Airport Name": "Okadama", "3-letter location code": "OKD"}
 {"City Name": "Okierabu", "Airport Name": "Okierabu Airport", "3-letter location code": "OKE"}
 {"City Name": "Okaukuejo", "Airport Name": "Okaukuejo Airport", "3-letter location code": "OKF"}
@@ -5943,8 +5943,8 @@
 {"City Name": "Maasai Mara", "Airport Name": "Olkiombo", "3-letter location code": "OLX"}
 {"City Name": "Olney/Noble", "Airport Name": "Olney/Noble Airport", "3-letter location code": "OLY"}
 {"City Name": "Olekminsk", "Airport Name": "Olekminsk Airport", "3-letter location code": "OLZ"}
-{"City Name": "Omaha", "Airport Name": "Eppley Airfield", "3-letter location code": "OMA"}
 {"City Name": "Omaha", "Airport Name": "Metropolitan Area", "3-letter location code": "OMA"}
+{"City Name": "Omaha", "Airport Name": "Eppley Airfield", "3-letter location code": "OMA"}
 {"City Name": "Omboue", "Airport Name": "Omboue-Hopital", "3-letter location code": "OMB"}
 {"City Name": "Ormoc", "Airport Name": "Ormoc Airport", "3-letter location code": "OMC"}
 {"City Name": "Oranjemund", "Airport Name": "Oranjemund Airport", "3-letter location code": "OMD"}
@@ -6005,8 +6005,8 @@
 {"City Name": "Orocue", "Airport Name": "Orocue Airport", "3-letter location code": "ORC"}
 {"City Name": "Chicago", "Airport Name": "O'Hare International", "3-letter location code": "ORD"}
 {"City Name": "Orleans", "Airport Name": "St Denis de l'Hotel", "3-letter location code": "ORE"}
-{"City Name": "Norfolk", "Airport Name": "Norfolk Intl.", "3-letter location code": "ORF"}
 {"City Name": "Norfolk", "Airport Name": "Metropolitan Area", "3-letter location code": "ORF"}
+{"City Name": "Norfolk", "Airport Name": "Norfolk Intl.", "3-letter location code": "ORF"}
 {"City Name": "Paramaribo", "Airport Name": "Zorg en Hoop", "3-letter location code": "ORG"}
 {"City Name": "Worcester", "Airport Name": "Worcester Reg. Airport", "3-letter location code": "ORH"}
 {"City Name": "Port Lions", "Airport Name": "Port Lions Airport", "3-letter location code": "ORI"}
@@ -6122,8 +6122,8 @@
 {"City Name": "Zagora", "Airport Name": "Zagora Airport", "3-letter location code": "OZG"}
 {"City Name": "Zaporizhzhia", "Airport Name": "Mokraya Intl", "3-letter location code": "OZH"}
 {"City Name": "Moron", "Airport Name": "Air Base", "3-letter location code": "OZP"}
-{"City Name": "Fort Rucker/Ozark", "Airport Name": "Cairns AAF", "3-letter location code": "OZR"}
 {"City Name": "Fort Rucker/Ozark", "Airport Name": "Metropolitan Area", "3-letter location code": "OZR"}
+{"City Name": "Fort Rucker/Ozark", "Airport Name": "Cairns AAF", "3-letter location code": "OZR"}
 {"City Name": "Ouarzazate", "Airport Name": "Ouarzazate Airport", "3-letter location code": "OZZ"}
 {"City Name": "Hpa-an", "Airport Name": "Hpa-an Airport", "3-letter location code": "PAA"}
 {"City Name": "Bilaspur", "Airport Name": "Bilaspur Airport", "3-letter location code": "PAB"}
@@ -6158,12 +6158,12 @@
 {"City Name": "Pine Bluff", "Airport Name": "Grider Field", "3-letter location code": "PBF"}
 {"City Name": "Plattsburgh", "Airport Name": "Plattsburgh Intl.", "3-letter location code": "PBG"}
 {"City Name": "Paro", "Airport Name": "Paro Intl.", "3-letter location code": "PBH"}
-{"City Name": "West Palm Beach", "Airport Name": "Metropolitan Area", "3-letter location code": "PBI"}
 {"City Name": "West Palm Beach", "Airport Name": "President Donald J. Trump International", "3-letter location code": "PBI"}
+{"City Name": "West Palm Beach", "Airport Name": "Metropolitan Area", "3-letter location code": "PBI"}
 {"City Name": "Paama Island", "Airport Name": "Paama Island Airport", "3-letter location code": "PBJ"}
 {"City Name": "Puerto Cabello", "Airport Name": "Bartolome Salom Intl", "3-letter location code": "PBL"}
-{"City Name": "Paramaribo", "Airport Name": "Johan A. Pengel Intl", "3-letter location code": "PBM"}
 {"City Name": "Paramaribo", "Airport Name": "Metropolitan Area", "3-letter location code": "PBM"}
+{"City Name": "Paramaribo", "Airport Name": "Johan A. Pengel Intl", "3-letter location code": "PBM"}
 {"City Name": "Porto Amboim", "Airport Name": "Porto Amboim Airport", "3-letter location code": "PBN"}
 {"City Name": "Paraburdoo", "Airport Name": "Paraburdoo Airport", "3-letter location code": "PBO"}
 {"City Name": "Islita", "Airport Name": "Islita Airport", "3-letter location code": "PBP"}
@@ -6275,8 +6275,8 @@
 {"City Name": "Pokhara", "Airport Name": "Pokhara International", "3-letter location code": "PHH"}
 {"City Name": "Pinheiro", "Airport Name": "Pinheiro Airport", "3-letter location code": "PHI"}
 {"City Name": "Pahokee", "Airport Name": "Palm Beach Co Glades", "3-letter location code": "PHK"}
-{"City Name": "Philadelphia", "Airport Name": "Metropolitan Area", "3-letter location code": "PHL"}
 {"City Name": "Philadelphia", "Airport Name": "Philadelphia Intl.", "3-letter location code": "PHL"}
+{"City Name": "Philadelphia", "Airport Name": "Metropolitan Area", "3-letter location code": "PHL"}
 {"City Name": "Port Huron", "Airport Name": "St Clair County Intl", "3-letter location code": "PHN"}
 {"City Name": "Point Hope", "Airport Name": "Point Hope Airport", "3-letter location code": "PHO"}
 {"City Name": "Philip", "Airport Name": "Philip Airport", "3-letter location code": "PHP"}
@@ -6469,8 +6469,8 @@
 {"City Name": "Prescott", "Airport Name": "Ernest A. Love Field", "3-letter location code": "PRC"}
 {"City Name": "Pardoo Station", "Airport Name": "Pardoo Station Airport", "3-letter location code": "PRD"}
 {"City Name": "Pore", "Airport Name": "Pore Airport", "3-letter location code": "PRE"}
-{"City Name": "Prague", "Airport Name": "Vaclav Havel", "3-letter location code": "PRG"}
 {"City Name": "Prague", "Airport Name": "Metropolitan Area", "3-letter location code": "PRG"}
+{"City Name": "Prague", "Airport Name": "Vaclav Havel", "3-letter location code": "PRG"}
 {"City Name": "Phrae", "Airport Name": "Phrae Airport", "3-letter location code": "PRH"}
 {"City Name": "Praslin Island", "Airport Name": "Praslin Island Airport", "3-letter location code": "PRI"}
 {"City Name": "Prieska", "Airport Name": "Prieska Airport", "3-letter location code": "PRK"}
@@ -6503,8 +6503,8 @@
 {"City Name": "Boston", "Airport Name": "Portsmouth Pease Intl", "3-letter location code": "PSM"}
 {"City Name": "Palestine", "Airport Name": "Palestine Municipal", "3-letter location code": "PSN"}
 {"City Name": "Pasto", "Airport Name": "Antonio Narino", "3-letter location code": "PSO"}
-{"City Name": "Palm Springs", "Airport Name": "Metropolitan Area", "3-letter location code": "PSP"}
 {"City Name": "Palm Springs", "Airport Name": "Palm Springs Intl.", "3-letter location code": "PSP"}
+{"City Name": "Palm Springs", "Airport Name": "Metropolitan Area", "3-letter location code": "PSP"}
 {"City Name": "Philadelphia", "Airport Name": "Essington SPB", "3-letter location code": "PSQ"}
 {"City Name": "Pescara", "Airport Name": "Abruzzo", "3-letter location code": "PSR"}
 {"City Name": "Posadas", "Airport Name": "Jose de San Martin", "3-letter location code": "PSS"}
@@ -6998,8 +6998,8 @@
 {"City Name": "Roanoke Rapids", "Airport Name": "Halifax-Northampton", "3-letter location code": "RZZ"}
 {"City Name": "Saratoga", "Airport Name": "Shively Field", "3-letter location code": "SAA"}
 {"City Name": "Saba", "Airport Name": "Juancho E. Yrausquin", "3-letter location code": "SAB"}
-{"City Name": "Sacramento", "Airport Name": "Executive", "3-letter location code": "SAC"}
 {"City Name": "Sacramento", "Airport Name": "Metropolitan Area", "3-letter location code": "SAC"}
+{"City Name": "Sacramento", "Airport Name": "Executive", "3-letter location code": "SAC"}
 {"City Name": "Safford", "Airport Name": "Safford Reg. Airport", "3-letter location code": "SAD"}
 {"City Name": "Santa Fe", "Airport Name": "Santa Fe Municipal Airport", "3-letter location code": "SAF"}
 {"City Name": "Shirdi", "Airport Name": "Shirdi Airport", "3-letter location code": "SAG"}
@@ -7008,15 +7008,15 @@
 {"City Name": "Saudarkrokur", "Airport Name": "Alexander", "3-letter location code": "SAK"}
 {"City Name": "San Salvador", "Airport Name": "El Salvador Intl", "3-letter location code": "SAL"}
 {"City Name": "Salamo", "Airport Name": "Salamo Airport", "3-letter location code": "SAM"}
-{"City Name": "San Diego", "Airport Name": "San Diego Intl.", "3-letter location code": "SAN"}
 {"City Name": "San Diego", "Airport Name": "Metropolitan Area", "3-letter location code": "SAN"}
+{"City Name": "San Diego", "Airport Name": "San Diego Intl.", "3-letter location code": "SAN"}
 {"City Name": "Sao Paulo", "Airport Name": "Metropolitan Area", "3-letter location code": "SAO"}
 {"City Name": "San Pedro Sula", "Airport Name": "Ramon V. Morales Intl", "3-letter location code": "SAP"}
 {"City Name": "San Andros", "Airport Name": "San Andros Airport", "3-letter location code": "SAQ"}
 {"City Name": "Sparta", "Airport Name": "Sparta Community", "3-letter location code": "SAR"}
 {"City Name": "Salton City", "Airport Name": "Salton Sea", "3-letter location code": "SAS"}
-{"City Name": "San Antonio", "Airport Name": "San Antonio Intl.", "3-letter location code": "SAT"}
 {"City Name": "San Antonio", "Airport Name": "Metropolitan Area", "3-letter location code": "SAT"}
+{"City Name": "San Antonio", "Airport Name": "San Antonio Intl.", "3-letter location code": "SAT"}
 {"City Name": "Sawu", "Airport Name": "Tardamu", "3-letter location code": "SAU"}
 {"City Name": "Savannah", "Airport Name": "Hilton Head Intl", "3-letter location code": "SAV"}
 {"City Name": "Savannah", "Airport Name": "Metropolitan Area", "3-letter location code": "SAV"}
@@ -7091,8 +7091,8 @@
 {"City Name": "San Diego", "Airport Name": "Brown Field Municipal", "3-letter location code": "SDM"}
 {"City Name": "Sandane", "Airport Name": "Anda", "3-letter location code": "SDN"}
 {"City Name": "Sand Point", "Airport Name": "Sand Point Airport", "3-letter location code": "SDP"}
-{"City Name": "Santo Domingo", "Airport Name": "Metropolitan Area", "3-letter location code": "SDQ"}
 {"City Name": "Santo Domingo", "Airport Name": "Las Americas Intl", "3-letter location code": "SDQ"}
+{"City Name": "Santo Domingo", "Airport Name": "Metropolitan Area", "3-letter location code": "SDQ"}
 {"City Name": "Santander", "Airport Name": "Santander Airport", "3-letter location code": "SDR"}
 {"City Name": "Sado", "Airport Name": "Sado Airport", "3-letter location code": "SDS"}
 {"City Name": "Saidu Sharif", "Airport Name": "Saidu Sharif Airport", "3-letter location code": "SDT"}
@@ -7211,8 +7211,8 @@
 {"City Name": "Sikeston", "Airport Name": "Memorial Municipal", "3-letter location code": "SIK"}
 {"City Name": "Sila", "Airport Name": "Sila Airport", "3-letter location code": "SIL"}
 {"City Name": "Simbai", "Airport Name": "Simbai Airport", "3-letter location code": "SIM"}
-{"City Name": "Singapore", "Airport Name": "Changi", "3-letter location code": "SIN"}
 {"City Name": "Singapore", "Airport Name": "Metropolitan Area", "3-letter location code": "SIN"}
+{"City Name": "Singapore", "Airport Name": "Changi", "3-letter location code": "SIN"}
 {"City Name": "Smithton", "Airport Name": "Smithton Airport", "3-letter location code": "SIO"}
 {"City Name": "Simferopol", "Airport Name": "Simferopol Intl.", "3-letter location code": "SIP"}
 {"City Name": "Singkep", "Airport Name": "Dabo", "3-letter location code": "SIQ"}
@@ -7396,8 +7396,8 @@
 {"City Name": "Saipan", "Airport Name": "Francisco C. Ada Intl", "3-letter location code": "SPN"}
 {"City Name": "Menongue", "Airport Name": "Menongue Airport", "3-letter location code": "SPP"}
 {"City Name": "San Pedro", "Airport Name": "San Pedro Airport", "3-letter location code": "SPR"}
-{"City Name": "Wichita Falls", "Airport Name": "Municipal/Sheppard AFB", "3-letter location code": "SPS"}
 {"City Name": "Wichita Falls", "Airport Name": "Metropolitan Area", "3-letter location code": "SPS"}
+{"City Name": "Wichita Falls", "Airport Name": "Municipal/Sheppard AFB", "3-letter location code": "SPS"}
 {"City Name": "Sipitang", "Airport Name": "Sipitang Airport", "3-letter location code": "SPT"}
 {"City Name": "Split", "Airport Name": "Split Airport", "3-letter location code": "SPU"}
 {"City Name": "Sepik Plains", "Airport Name": "Sepik Plains Airport", "3-letter location code": "SPV"}
@@ -7454,8 +7454,8 @@
 {"City Name": "Salisbury", "Airport Name": "Rowan County", "3-letter location code": "SRW"}
 {"City Name": "Sirte", "Airport Name": "Gardabya", "3-letter location code": "SRX"}
 {"City Name": "Sari", "Airport Name": "Dasht-e-Naz", "3-letter location code": "SRY"}
-{"City Name": "Santa Cruz", "Airport Name": "Metropolitan Area", "3-letter location code": "SRZ"}
 {"City Name": "Santa Cruz", "Airport Name": "El Trompillo", "3-letter location code": "SRZ"}
+{"City Name": "Santa Cruz", "Airport Name": "Metropolitan Area", "3-letter location code": "SRZ"}
 {"City Name": "Salvador", "Airport Name": "Luis E. Magalhaes Intl", "3-letter location code": "SSA"}
 {"City Name": "St Croix Island", "Airport Name": "Christiansted SPB", "3-letter location code": "SSB"}
 {"City Name": "Sumter", "Airport Name": "Shaw AFB", "3-letter location code": "SSC"}
@@ -7465,8 +7465,8 @@
 {"City Name": "San Antonio", "Airport Name": "Stinson Municipal", "3-letter location code": "SSF"}
 {"City Name": "Malabo", "Airport Name": "Malabo Intl.", "3-letter location code": "SSG"}
 {"City Name": "Sharm el-Sheikh", "Airport Name": "Sharm el-Sheikh Intl.", "3-letter location code": "SSH"}
-{"City Name": "Brunswick", "Airport Name": "McKinnon St Simons Is.", "3-letter location code": "SSI"}
 {"City Name": "Brunswick", "Airport Name": "Metropolitan Area", "3-letter location code": "SSI"}
+{"City Name": "Brunswick", "Airport Name": "McKinnon St Simons Is.", "3-letter location code": "SSI"}
 {"City Name": "Sandnessjoen", "Airport Name": "Stokka", "3-letter location code": "SSJ"}
 {"City Name": "Sturt Creek", "Airport Name": "Sturt Creek Airport", "3-letter location code": "SSK"}
 {"City Name": "Santa Rosalia", "Airport Name": "Santa Rosalia Airport", "3-letter location code": "SSL"}
@@ -7803,8 +7803,8 @@
 {"City Name": "Touggourt", "Airport Name": "Sidi Mahdi", "3-letter location code": "TGR"}
 {"City Name": "Chokwe", "Airport Name": "Chokwe Airport", "3-letter location code": "TGS"}
 {"City Name": "Tanga", "Airport Name": "Tanga Airport", "3-letter location code": "TGT"}
-{"City Name": "Tegucigalpa", "Airport Name": "Toncontin Intl", "3-letter location code": "TGU"}
 {"City Name": "Tegucigalpa", "Airport Name": "Metropolitan Area", "3-letter location code": "TGU"}
+{"City Name": "Tegucigalpa", "Airport Name": "Toncontin Intl", "3-letter location code": "TGU"}
 {"City Name": "Targovishte", "Airport Name": "Bukhovtsi", "3-letter location code": "TGV"}
 {"City Name": "Tuxtla Gutierrez", "Airport Name": "Angel Albino Corzo Int", "3-letter location code": "TGZ"}
 {"City Name": "Tullahoma", "Airport Name": "Tullahoma Reg. Airport", "3-letter location code": "THA"}
@@ -7822,8 +7822,8 @@
 {"City Name": "Thorshofn", "Airport Name": "Thorshofn Airport", "3-letter location code": "THO"}
 {"City Name": "Thermopolis", "Airport Name": "Hot Springs County", "3-letter location code": "THP"}
 {"City Name": "Tianshui", "Airport Name": "Maijishan", "3-letter location code": "THQ"}
-{"City Name": "Tehran", "Airport Name": "Mehrabad Intl", "3-letter location code": "THR"}
 {"City Name": "Tehran", "Airport Name": "Metropolitan Area", "3-letter location code": "THR"}
+{"City Name": "Tehran", "Airport Name": "Mehrabad Intl", "3-letter location code": "THR"}
 {"City Name": "Sukhothai", "Airport Name": "Sukhothai Airport", "3-letter location code": "THS"}
 {"City Name": "Tamchakett", "Airport Name": "Tamchakett Airport", "3-letter location code": "THT"}
 {"City Name": "Pituffik", "Airport Name": "Thule Air Base", "3-letter location code": "THU"}
@@ -7852,8 +7852,8 @@
 {"City Name": "Tirupati", "Airport Name": "Tirupati Airport", "3-letter location code": "TIR"}
 {"City Name": "Timaru", "Airport Name": "Richard Pearse", "3-letter location code": "TIU"}
 {"City Name": "Tivat", "Airport Name": "Tivat Airport", "3-letter location code": "TIV"}
-{"City Name": "Tacoma", "Airport Name": "Tacoma Narrows", "3-letter location code": "TIW"}
 {"City Name": "Tacoma", "Airport Name": "Metropolitan Area", "3-letter location code": "TIW"}
+{"City Name": "Tacoma", "Airport Name": "Tacoma Narrows", "3-letter location code": "TIW"}
 {"City Name": "Titusville", "Airport Name": "Space Coast Regional", "3-letter location code": "TIX"}
 {"City Name": "Tidjikja", "Airport Name": "Tidjikja Airport", "3-letter location code": "TIY"}
 {"City Name": "Tari", "Airport Name": "Tari Airport", "3-letter location code": "TIZ"}
@@ -7983,8 +7983,8 @@
 {"City Name": "Troy", "Airport Name": "Troy Municipal", "3-letter location code": "TOI"}
 {"City Name": "Madrid", "Airport Name": "Torrejon", "3-letter location code": "TOJ"}
 {"City Name": "Torokina", "Airport Name": "Torokina Airport", "3-letter location code": "TOK"}
-{"City Name": "Toledo", "Airport Name": "Metropolitan Area", "3-letter location code": "TOL"}
 {"City Name": "Toledo", "Airport Name": "Express", "3-letter location code": "TOL"}
+{"City Name": "Toledo", "Airport Name": "Metropolitan Area", "3-letter location code": "TOL"}
 {"City Name": "Tombouctou", "Airport Name": "Tombouctou Airport", "3-letter location code": "TOM"}
 {"City Name": "Tonu", "Airport Name": "Tonu Airport", "3-letter location code": "TON"}
 {"City Name": "San Vito", "Airport Name": "San Vito Airport", "3-letter location code": "TOO"}
@@ -8001,11 +8001,11 @@
 {"City Name": "Tobolsk", "Airport Name": "Tobolsk Airport", "3-letter location code": "TOX"}
 {"City Name": "Toyama", "Airport Name": "Toyama Airport", "3-letter location code": "TOY"}
 {"City Name": "Touba", "Airport Name": "Mahana", "3-letter location code": "TOZ"}
-{"City Name": "Tampa", "Airport Name": "Metropolitan Area", "3-letter location code": "TPA"}
 {"City Name": "Tampa", "Airport Name": "Tampa Intl.", "3-letter location code": "TPA"}
+{"City Name": "Tampa", "Airport Name": "Metropolitan Area", "3-letter location code": "TPA"}
 {"City Name": "Tarapoa", "Airport Name": "Tarapoa Airport", "3-letter location code": "TPC"}
-{"City Name": "Taipei", "Airport Name": "Taiwan Taoyuan Int'l", "3-letter location code": "TPE"}
 {"City Name": "Taipei", "Airport Name": "Metropolitan Area", "3-letter location code": "TPE"}
+{"City Name": "Taipei", "Airport Name": "Taiwan Taoyuan Int'l", "3-letter location code": "TPE"}
 {"City Name": "Tampa", "Airport Name": "Peter O. Knight", "3-letter location code": "TPF"}
 {"City Name": "Taiping", "Airport Name": "Taiping Airport", "3-letter location code": "TPG"}
 {"City Name": "Tonopah", "Airport Name": "Tonopah Arpt", "3-letter location code": "TPH"}
@@ -8106,16 +8106,16 @@
 {"City Name": "Turaif", "Airport Name": "Turaif Airport", "3-letter location code": "TUI"}
 {"City Name": "Tum", "Airport Name": "Tum Airport", "3-letter location code": "TUJ"}
 {"City Name": "Turbat", "Airport Name": "Turbat Intl.", "3-letter location code": "TUK"}
-{"City Name": "Tulsa", "Airport Name": "Metropolitan Area", "3-letter location code": "TUL"}
 {"City Name": "Tulsa", "Airport Name": "Tulsa Intl.", "3-letter location code": "TUL"}
+{"City Name": "Tulsa", "Airport Name": "Metropolitan Area", "3-letter location code": "TUL"}
 {"City Name": "Tumut", "Airport Name": "Tumut Airport", "3-letter location code": "TUM"}
 {"City Name": "Tunis", "Airport Name": "Carthage", "3-letter location code": "TUN"}
 {"City Name": "Taupo", "Airport Name": "Taupo Airport", "3-letter location code": "TUO"}
 {"City Name": "Tupelo", "Airport Name": "Tupelo Reg. Airport", "3-letter location code": "TUP"}
 {"City Name": "Tougan", "Airport Name": "Tougan Airport", "3-letter location code": "TUQ"}
 {"City Name": "Tucurui", "Airport Name": "Tucurui Airport", "3-letter location code": "TUR"}
-{"City Name": "Tucson", "Airport Name": "Tucson Intl.", "3-letter location code": "TUS"}
 {"City Name": "Tucson", "Airport Name": "Metropolitan Area", "3-letter location code": "TUS"}
+{"City Name": "Tucson", "Airport Name": "Tucson Intl.", "3-letter location code": "TUS"}
 {"City Name": "Tauta", "Airport Name": "Tauta Airport", "3-letter location code": "TUT"}
 {"City Name": "Tabuk", "Airport Name": "Tabuk Airport", "3-letter location code": "TUU"}
 {"City Name": "Tucupita", "Airport Name": "San Rafael", "3-letter location code": "TUV"}
@@ -8485,8 +8485,8 @@
 {"City Name": "Arkhangelsk", "Airport Name": "Vaskovo", "3-letter location code": "VKV"}
 {"City Name": "Vandalia", "Airport Name": "Vandalia Municipal", "3-letter location code": "VLA"}
 {"City Name": "Valencia", "Airport Name": "Valencia Airport", "3-letter location code": "VLC"}
-{"City Name": "Valdosta", "Airport Name": "Valdosta Reg. Airport", "3-letter location code": "VLD"}
 {"City Name": "Valdosta", "Airport Name": "Metropolitan Area", "3-letter location code": "VLD"}
+{"City Name": "Valdosta", "Airport Name": "Valdosta Reg. Airport", "3-letter location code": "VLD"}
 {"City Name": "Grand Canyon", "Airport Name": "Valle", "3-letter location code": "VLE"}
 {"City Name": "Villa Gesell", "Airport Name": "Villa Gesell Airport", "3-letter location code": "VLG"}
 {"City Name": "Port Vila", "Airport Name": "Port Vila Airport", "3-letter location code": "VLI"}
@@ -8524,8 +8524,8 @@
 {"City Name": "Ondjiva", "Airport Name": "Ondjiva Airport", "3-letter location code": "VPE"}
 {"City Name": "Vipingo", "Airport Name": "Vipingo Airport", "3-letter location code": "VPG"}
 {"City Name": "Vopnafjordur", "Airport Name": "Vopnafjordur Airport", "3-letter location code": "VPN"}
-{"City Name": "Destin/Ft Walton Beach", "Airport Name": "Destin-Ft Walton Beach", "3-letter location code": "VPS"}
 {"City Name": "Destin/Ft Walton Beach", "Airport Name": "Metropolitan Area", "3-letter location code": "VPS"}
+{"City Name": "Destin/Ft Walton Beach", "Airport Name": "Destin-Ft Walton Beach", "3-letter location code": "VPS"}
 {"City Name": "Chimoio", "Airport Name": "Chimoio Airport", "3-letter location code": "VPY"}
 {"City Name": "Valparaiso", "Airport Name": "Porter Co. Municipal", "3-letter location code": "VPZ"}
 {"City Name": "Jacksonville", "Airport Name": "Cecil", "3-letter location code": "VQQ"}
@@ -8595,8 +8595,8 @@
 {"City Name": "Waterford", "Airport Name": "Waterford Airport", "3-letter location code": "WAT"}
 {"City Name": "Wauchope", "Airport Name": "Wauchope Airport", "3-letter location code": "WAU"}
 {"City Name": "Wave Hill", "Airport Name": "Wave Hill Airport", "3-letter location code": "WAV"}
-{"City Name": "Warsaw", "Airport Name": "Metropolitan Area", "3-letter location code": "WAW"}
 {"City Name": "Warsaw", "Airport Name": "Frederic Chopin", "3-letter location code": "WAW"}
+{"City Name": "Warsaw", "Airport Name": "Metropolitan Area", "3-letter location code": "WAW"}
 {"City Name": "Zuara", "Airport Name": "Zuara Airport", "3-letter location code": "WAX"}
 {"City Name": "Waynesburg", "Airport Name": "Greene County", "3-letter location code": "WAY"}
 {"City Name": "Warwick", "Airport Name": "Warwick Airport", "3-letter location code": "WAZ"}
@@ -8621,8 +8621,8 @@
 {"City Name": "Weda", "Airport Name": "Weda Bay Airport", "3-letter location code": "WDB"}
 {"City Name": "Enid", "Airport Name": "Woodring Regional", "3-letter location code": "WDG"}
 {"City Name": "Enid", "Airport Name": "Metropolitan Area", "3-letter location code": "WDG"}
-{"City Name": "Windhoek", "Airport Name": "Metropolitan Area", "3-letter location code": "WDH"}
 {"City Name": "Windhoek", "Airport Name": "Hosea Kutako Intl", "3-letter location code": "WDH"}
+{"City Name": "Windhoek", "Airport Name": "Metropolitan Area", "3-letter location code": "WDH"}
 {"City Name": "Wondai", "Airport Name": "Wondai Airport", "3-letter location code": "WDI"}
 {"City Name": "Waldron Island", "Airport Name": "Waldronaire", "3-letter location code": "WDN"}
 {"City Name": "Winder", "Airport Name": "Barrow County", "3-letter location code": "WDR"}
@@ -8941,8 +8941,8 @@
 {"City Name": "Mayne Island", "Airport Name": "Miners Bay SPB", "3-letter location code": "YAV"}
 {"City Name": "Angling Lake", "Airport Name": "Wapekeka", "3-letter location code": "YAX"}
 {"City Name": "St Anthony", "Airport Name": "St Anthony Airport", "3-letter location code": "YAY"}
-{"City Name": "Tofino", "Airport Name": "Metropolitan Area", "3-letter location code": "YAZ"}
 {"City Name": "Tofino", "Airport Name": "Long Beach", "3-letter location code": "YAZ"}
+{"City Name": "Tofino", "Airport Name": "Metropolitan Area", "3-letter location code": "YAZ"}
 {"City Name": "Banff", "Airport Name": "Banff Airport", "3-letter location code": "YBA"}
 {"City Name": "Kugaaruk", "Airport Name": "Kugaaruk Airport", "3-letter location code": "YBB"}
 {"City Name": "Baie-Comeau", "Airport Name": "Baie-Comeau Airport", "3-letter location code": "YBC"}
@@ -8953,8 +8953,8 @@
 {"City Name": "Black Tickle", "Airport Name": "Black Tickle Airport", "3-letter location code": "YBI"}
 {"City Name": "Baie-Johan-Beetz", "Airport Name": "SPB", "3-letter location code": "YBJ"}
 {"City Name": "Baker Lake", "Airport Name": "Baker Lake Airport", "3-letter location code": "YBK"}
-{"City Name": "Campbell River", "Airport Name": "Metropolitan Area", "3-letter location code": "YBL"}
 {"City Name": "Campbell River", "Airport Name": "Campbell River Airport", "3-letter location code": "YBL"}
+{"City Name": "Campbell River", "Airport Name": "Metropolitan Area", "3-letter location code": "YBL"}
 {"City Name": "Bob Quinn Lake", "Airport Name": "Bob Quinn Lake Airport", "3-letter location code": "YBO"}
 {"City Name": "Yibin", "Airport Name": "Wuliangye Airport", "3-letter location code": "YBP"}
 {"City Name": "Thetis Island", "Airport Name": "Telegraph Harbour SPB", "3-letter location code": "YBQ"}
@@ -8968,8 +8968,8 @@
 {"City Name": "Courtenay", "Airport Name": "Airpark", "3-letter location code": "YCA"}
 {"City Name": "Cambridge Bay", "Airport Name": "Cambridge Bay Airport", "3-letter location code": "YCB"}
 {"City Name": "Cornwall", "Airport Name": "Cornwall Reg. Airport", "3-letter location code": "YCC"}
-{"City Name": "Nanaimo", "Airport Name": "Nanaimo Airport", "3-letter location code": "YCD"}
 {"City Name": "Nanaimo", "Airport Name": "Metropolitan Area", "3-letter location code": "YCD"}
+{"City Name": "Nanaimo", "Airport Name": "Nanaimo Airport", "3-letter location code": "YCD"}
 {"City Name": "Centralia", "Airport Name": "James T Field Memorial", "3-letter location code": "YCE"}
 {"City Name": "Cortes Bay", "Airport Name": "SPB", "3-letter location code": "YCF"}
 {"City Name": "Castlegar", "Airport Name": "West Kootenay Regional", "3-letter location code": "YCG"}
@@ -9074,8 +9074,8 @@
 {"City Name": "Haines Junction", "Airport Name": "Haines Junction Airport", "3-letter location code": "YHT"}
 {"City Name": "Montreal", "Airport Name": "St-Hubert", "3-letter location code": "YHU"}
 {"City Name": "Hay River", "Airport Name": "Merlyn Carter", "3-letter location code": "YHY"}
-{"City Name": "Halifax", "Airport Name": "Stanfield Intl", "3-letter location code": "YHZ"}
 {"City Name": "Halifax", "Airport Name": "Metropolitan Area", "3-letter location code": "YHZ"}
+{"City Name": "Halifax", "Airport Name": "Stanfield Intl", "3-letter location code": "YHZ"}
 {"City Name": "Yogyakarta", "Airport Name": "New Yogyakarta Int.", "3-letter location code": "YIA"}
 {"City Name": "Atikokan", "Airport Name": "Atikokan Municipal", "3-letter location code": "YIB"}
 {"City Name": "Yichun (Jiangxi)", "Airport Name": "Mingyueshan", "3-letter location code": "YIC"}
@@ -9206,8 +9206,8 @@
 {"City Name": "Port-Menier", "Airport Name": "Port-Menier Airport", "3-letter location code": "YPN"}
 {"City Name": "Peawanuck", "Airport Name": "Peawanuck Airport", "3-letter location code": "YPO"}
 {"City Name": "Peterborough", "Airport Name": "Peterborough Airport", "3-letter location code": "YPQ"}
-{"City Name": "Prince Rupert", "Airport Name": "Prince Rupert Airport", "3-letter location code": "YPR"}
 {"City Name": "Prince Rupert", "Airport Name": "Metropolitan Area", "3-letter location code": "YPR"}
+{"City Name": "Prince Rupert", "Airport Name": "Prince Rupert Airport", "3-letter location code": "YPR"}
 {"City Name": "Port Hawkesbury", "Airport Name": "Port Hawkesbury Airport", "3-letter location code": "YPS"}
 {"City Name": "Pender Harbour", "Airport Name": "SPB", "3-letter location code": "YPT"}
 {"City Name": "Powell River", "Airport Name": "Powell River Airport", "3-letter location code": "YPW"}
@@ -9318,8 +9318,8 @@
 {"City Name": "Val d'Or", "Airport Name": "Val d'Or Airport", "3-letter location code": "YVO"}
 {"City Name": "Kuujjuaq", "Airport Name": "Kuujjuaq Airport", "3-letter location code": "YVP"}
 {"City Name": "Norman Wells", "Airport Name": "Norman Wells Airport", "3-letter location code": "YVQ"}
-{"City Name": "Vancouver", "Airport Name": "Vancouver Intl.", "3-letter location code": "YVR"}
 {"City Name": "Vancouver", "Airport Name": "Metropolitan Area", "3-letter location code": "YVR"}
+{"City Name": "Vancouver", "Airport Name": "Vancouver Intl.", "3-letter location code": "YVR"}
 {"City Name": "Buffalo Narrows", "Airport Name": "Buffalo Narrows Airport", "3-letter location code": "YVT"}
 {"City Name": "Wiarton", "Airport Name": "Wiarton Airport", "3-letter location code": "YVV"}
 {"City Name": "Deer Lake", "Airport Name": "Deer Lake Airport", "3-letter location code": "YVZ"}
